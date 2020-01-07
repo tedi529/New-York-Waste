@@ -1,0 +1,1833 @@
+Material,Aggregate Percent,Refuse Percent,MGP Percent,Paper Percent,Organic Percent,Material Group,DSNY Diversion Summary Category,Location
+Newspaper,0.019,0.011,0.005,0.098,0,Paper,Designated Paper,Citywide
+Plain OCC/Kraft Paper,0.056,0.012,0.01,0.464,0.002,Paper,Designated Paper,Citywide
+Paper Bags: Kraft Grocery,0.002,0.001,0,0.008,0,Paper,Designated Paper,Citywide
+Paper Bags: Non-food Retail,0.002,0.002,0,0.008,0,Paper,Designated Paper,Citywide
+Paper Bags: Fast Food Bags,0.001,0.002,0,0.001,0,Paper,Designated Paper,Citywide
+Paper Bags: Compostable/Soiled,0.003,0.003,0,0.002,0.002,Paper,Organics Suitable for Composting,Citywide
+High Grade Paper,0.007,0.005,0.001,0.026,0,Paper,Designated Paper,Citywide
+Mixed Low Grade Paper,0.081,0.063,0.023,0.288,0.008,Paper,Designated Paper,Citywide
+Compostable/Soiled Paper/Waxed OCC/Kraft,0.078,0.094,0.006,0.011,0.017,Paper,Organics Suitable for Composting,Citywide
+Compostable/School Plates/Trays,0.001,0.001,0,0,0.001,Paper,Organics Suitable for Composting,Citywide
+Compostable/School Paper Boats,0,0,0,0.001,0,Paper,Organics Suitable for Composting,Citywide
+Other Non-recyclable Paper,0.008,0.008,0.007,0.005,0.004,Paper,Other,Citywide
+Beverage Cartons & Aseptic Boxes,0.004,0.003,0.014,0.003,0,Paper,Designated MGP,Citywide
+Shredded Paper,0.003,0.002,0,0.018,0.001,Paper,Designated Paper,Citywide
+Drinking Cups - Paper and Plastic: Paper - Compostable,0,0,0,0,0,Paper,Organics Suitable for Composting,Citywide
+Drinking Cups - Paper and Plastic: Paper - Non-Compostable,0.003,0.003,0.001,0.001,0,Paper,Other,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #1 PET All,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Rigid,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #6 PS Rigid,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Durable: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Durable: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Durable: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Durable: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Durable: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Durable: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Drinking Cups - Paper and Plastic: Plastic - Durable: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Citywide
+K-Cups: Predominanty Plastic: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Citywide
+K-Cups: Predominanty Plastic: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Citywide
+K-Cups: Predominanty Plastic: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Citywide
+K-Cups: Predominanty Plastic: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+K-Cups: Predominanty Plastic: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+K-Cups: Predominanty Plastic: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+K-Cups: Predominanty Plastic: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+K-Cups: Predominanty Plastic: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+K-Cups: Predominanty Plastic: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Citywide
+K-Cups: Predominanty Plastic: Compostable,0,0,0,0,0,Plastic,Organics Suitable for Composting,Citywide
+K-Cups: Predominanty Plastic: Other & Unlabeled,0,0.001,0,0,0,Plastic,Designated MGP,Citywide
+K-Cups: Predominanty Metal,0,0,0,0,0,Plastic,Designated MGP,Citywide
+K-Cups: Predominanty Organic,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Plastic Bottles: #1 PET - Clear,0.012,0.008,0.056,0.002,0.001,Plastic,Designated MGP,Citywide
+Plastic Bottles: #1 PET - Green,0,0,0.002,0,0,Plastic,Designated MGP,Citywide
+Plastic Bottles: #1 PET - Other,0.001,0.001,0.004,0,0,Plastic,Designated MGP,Citywide
+#2 HDPE Natural Bottles,0.005,0.002,0.033,0,0,Plastic,Designated MGP,Citywide
+#2 HDPE Colored Bottles,0.005,0.003,0.034,0,0.001,Plastic,Designated MGP,Citywide
+Plastic Bottles: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Plastic Bottles: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Plastic Bottles: #5 PP Rigid,0.001,0,0.003,0,0,Plastic,Designated MGP,Citywide
+Plastic Bottles: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Plastic Bottles: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Plastic Bottles: #7 Other,0,0,0.001,0,0,Plastic,Designated MGP,Citywide
+Plastic Bottles: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Plastic Bottles: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Thermoforms: #1 PET All,0.005,0.003,0.021,0.001,0,Plastic,Designated MGP,Citywide
+Thermoforms: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Thermoforms: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Thermoforms: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Thermoforms: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Thermoforms: #5 PP Rigid,0.002,0.002,0.009,0,0,Plastic,Designated MGP,Citywide
+Thermoforms: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Thermoforms: #6 PS Rigid,0.002,0.001,0.004,0,0,Plastic,Designated MGP,Citywide
+Thermoforms: #7 Other,0,0,0.001,0,0,Plastic,Designated MGP,Citywide
+Thermoforms: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Thermoforms: Other & Unlabeled,0.001,0.001,0.002,0.001,0,Plastic,Designated MGP,Citywide
+Other PVC (Non-bottle),0,0,0.001,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Tubs & Lids: #1 PET All,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Tubs & Lids: #2 HDPE Natural,0,0,0.002,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Tubs & Lids: #2 HDPE Pig.,0.001,0,0.004,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Tubs & Lids: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Tubs & Lids: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Tubs & Lids: #5 PP Rigid,0.004,0.004,0.012,0.001,0.001,Plastic,Designated MGP,Citywide
+Rigid Plastics: Tubs & Lids: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Rigid Plastics: Tubs & Lids: #6 PS Rigid,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Tubs & Lids: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Tubs & Lids: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Tubs & Lids: Other & Unlabeled,0.002,0.001,0.004,0.001,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Rigid Container/Pkg: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Rigid Container/Pkg: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Rigid Container/Pkg: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Rigid Container/Pkg: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Rigid Container/Pkg: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Rigid Plastics: Rigid Container/Pkg: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Rigid Container/Pkg: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Rigid Container/Pkg: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Rigid Container/Pkg: Other & Unlabeled,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Citywide
+Expanded Polystyrene Containers & Packaging (EPS): Clamshells,0.001,0.002,0,0,0,Plastic,Other,Citywide
+Expanded Polystyrene Containers & Packaging (EPS): Single Use Cups,0,0,0,0,0,Plastic,Other,Citywide
+Expanded Polystyrene Containers & Packaging (EPS): Singe Use Other,0.001,0.002,0,0,0,Plastic,Other,Citywide
+Expanded Polystyrene Containers & Packaging (EPS): Food Packaging,0.003,0.003,0.001,0,0,Plastic,Other,Citywide
+Expanded Polystyrene Containers & Packaging (EPS): Non-food Packaging,0.001,0.001,0,0.001,0,Plastic,Other,Citywide
+Film: Garbage Bags,0.025,0.026,0.028,0.012,0.008,Plastic,Other,Citywide
+Film: Pouches,0,0,0,0,0,Plastic,Other,Citywide
+Film: Oversize: Other PE Film,0.002,0.002,0.001,0,0,Plastic,Other,Citywide
+Film: Oversize: Non-PE Film,0.002,0.003,0.001,0,0,Plastic,Other,Citywide
+Other Plastic Bags & Film: Grocery/Merch Bags,0.018,0.021,0.008,0.002,0.006,Plastic,Plastic Bags,Citywide
+Other Plastic Bags & Film: Produce Bags,0.001,0.001,0,0,0.001,Plastic,Plastic Bags,Citywide
+Other Plastic Bags & Film: Other Sleeves/Clean Bags,0.001,0.001,0,0.001,0,Plastic,Plastic Bags,Citywide
+Other Plastic Bags & Film: Compostable Bags,0,0,0,0,0.002,Plastic,Other,Citywide
+Other Plastic Bags & Film: Other PE Film,0.009,0.011,0.006,0.002,0.003,Plastic,Other,Citywide
+Other Plastic Bags & Film: Non-PE Film,0.011,0.013,0.004,0.001,0.002,Plastic,Other,Citywide
+Single Use: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Single Use: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Single Use: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Single Use: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Single Use: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Single Use: #5 PP Rigid,0,0,0.001,0,0,Plastic,Designated MGP,Citywide
+Single Use: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Single Use: #6 PS Rigid,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Citywide
+Single Use: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Single Use: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Single Use: Other & Unlabeled,0.002,0.003,0.002,0,0,Plastic,Designated MGP,Citywide
+Appliances: Plastic: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Appliances: Plastic: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Appliances: Plastic: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Appliances: Plastic: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Appliances: Plastic: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Appliances: Plastic: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Appliances: Plastic: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Appliances: Plastic: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Appliances: Plastic: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Appliances: Plastic: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Appliances: Plastic: Other & Unlabeled,0.001,0.001,0.003,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Crates/Soda Carrier: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Pig.,0,0,0.001,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Crates/Soda Carrier: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Crates/Soda Carrier: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Bulk/Rigid Plastics: Crates/Soda Carrier: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Crates/Soda Carrier: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Crates/Soda Carrier: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Crates/Soda Carrier: Other & Unlabeled,0.001,0,0.003,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Toys/Housewares: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Pig.,0,0,0.001,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Toys/Housewares: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Toys/Housewares: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Rigid,0,0,0.001,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Bulk/Rigid Plastics: Toys/Housewares: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Toys/Housewares: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Toys/Housewares: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Toys/Housewares: Other & Unlabeled,0.007,0.004,0.035,0.004,0.001,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Other Durable: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Pig.,0.001,0,0.003,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Other Durable: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Other Durable: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Other Durable: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Other Durable: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Bulk/Rigid Plastics: Other Durable: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Other Durable: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Other Durable: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Bulk/Rigid Plastics: Other Durable: Other & Unlabeled,0.002,0.002,0.006,0,0.001,Plastic,Designated MGP,Citywide
+Rigid Plastics: Other Plastics: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Other Plastics: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Other Plastics: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Other Plastics: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Other Plastics: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Other Plastics: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Other Plastics: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Citywide
+Rigid Plastics: Other Plastics: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Other Plastics: #7 Other,0,0,0.001,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Other Plastics: Compostable,0,0,0,0,0,Plastic,Designated MGP,Citywide
+Rigid Plastics: Other Plastics: Other & Unlabeled,0.012,0.012,0.023,0.002,0.001,Plastic,Designated MGP,Citywide
+Clear Container Glass,0.017,0.01,0.093,0.002,0.001,Glass,Designated MGP,Citywide
+Green Container Glass,0.006,0.003,0.045,0.001,0,Glass,Designated MGP,Citywide
+Brown Container Glass,0.004,0.002,0.018,0.001,0,Glass,Designated MGP,Citywide
+Other Color Container Glass,0.001,0,0.002,0,0,Glass,Designated MGP,Citywide
+Mixed Cullet,0.015,0.003,0.132,0.001,0,Glass,Designated MGP,Citywide
+Other Glass,0.003,0.003,0.008,0.001,0.001,Glass,Other,Citywide
+Aluminum Cans,0.003,0.002,0.009,0,0,Metal,Designated MGP,Citywide
+Aluminum Foil/Containers,0.007,0.008,0.012,0,0.001,Metal,Designated MGP,Citywide
+Other Aluminium,0.001,0,0.002,0,0,Metal,Designated MGP,Citywide
+Other Non-ferrous,0.003,0.002,0.01,0,0,Metal,Designated MGP,Citywide
+Steel/Tin Food Cans,0.008,0.005,0.044,0.001,0,Metal,Designated MGP,Citywide
+Empty Aerosol Cans,0.002,0.001,0.006,0,0,Metal,Designated MGP,Citywide
+Other Ferrous Metal,0.011,0.005,0.072,0.002,0,Metal,Designated MGP,Citywide
+Mixed Metals,0.008,0.007,0.027,0,0,Metal,Designated MGP,Citywide
+Appliances: Ferrous,0.003,0.001,0.025,0,0,Metal,Designated MGP,Citywide
+Appliances: Non-ferrous,0.001,0.001,0.006,0,0,Metal,Designated MGP,Citywide
+Yard Waste,0.055,0.065,0,0,0.599,Organic,Organics Suitable for Composting,Citywide
+Food,0.207,0.251,0.025,0.009,0.31,Organic,Organics Suitable for Composting,Citywide
+Non-C&D Wood,0.004,0.005,0.002,0.002,0,Organic,Other,Citywide
+Textiles:  Non-clothing,0.023,0.029,0.002,0.001,0.001,Organic,Textiles,Citywide
+Textiles:  Clothing,0.029,0.035,0.002,0.001,0.002,Organic,Textiles,Citywide
+Carpet/Upholstery,0.014,0.017,0,0,0.002,Organic,Other,Citywide
+Disposable Diapers & Sanitary Products,0.042,0.052,0.001,0.001,0.003,Organic,Other,Citywide
+Animal By-Products,0.014,0.017,0.001,0,0.001,Organic,Other,Citywide
+Shoes/Rubber/Leather,0.01,0.012,0.003,0.001,0,Organic,Textiles,Citywide
+Garden Hoses,0,0,0.003,0,0.001,Organic,Textiles,Citywide
+Fines,0.028,0.033,0.015,0.002,0.004,Organic,Other,Citywide
+Miscellaneous Organics,0.006,0.007,0.002,0,0.004,Organic,Other,Citywide
+Audio/Visual Equipment - TV Peripherals (Covered),0,0,0,0,0,E-Waste,E-Waste,Citywide
+Audio/Visual Equipment - Other (Non-covered),0.001,0.001,0.003,0,0.001,E-Waste,E-Waste,Citywide
+Computer Monitors,0,0,0.001,0,0,E-Waste,E-Waste,Citywide
+Televisions,0,0,0,0,0,E-Waste,E-Waste,Citywide
+Other Computer Equipment,0.001,0.001,0.003,0.001,0,E-Waste,E-Waste,Citywide
+Untreated Dimension Lumber/Pallets/Crates,0.004,0.004,0,0,0,C&D,C&D,Citywide
+Treated/Contaminated/Composite Wood,0.02,0.024,0.001,0,0,C&D,C&D,Citywide
+Other C&D Debris Not Elsewhere Classified,0.021,0.026,0.003,0.001,0.001,C&D,C&D,Citywide
+Oil Filters,0,0,0,0,0,Special Waste,HHW,Citywide
+Antifreeze,0,0,0,0,0,Special Waste,HHW,Citywide
+Wet-Cell Batteries,0,0,0,0,0,Special Waste,HHW,Citywide
+Water-Based Adhesives/Glues,0,0,0,0,0,Special Waste,HHW,Citywide
+Latex Paint,0.001,0.001,0.001,0,0,Special Waste,HHW,Citywide
+Oil-Based Paint/Solvent,0,0,0.001,0,0,Special Waste,HHW,Citywide
+Pesticides/Herbicides/Rodenticides,0,0,0,0,0,Special Waste,HHW,Citywide
+Dry-Cell Batteries,0.001,0.001,0.001,0,0,Special Waste,HHW,Citywide
+Fluorescent Tubes/CFLs,0,0,0,0,0,Special Waste,HHW,Citywide
+Mercury-Laden Wastes,0,0,0,0,0,Special Waste,HHW,Citywide
+Compressed Gas Cylinders/Fire Extinguishers,0,0,0,0,0,Special Waste,HHW,Citywide
+Home Medical Products,0.002,0.002,0.001,0,0,Special Waste,HHW,Citywide
+Other HHW,0.001,0.001,0.001,0,0,Special Waste,HHW,Citywide
+Miscellaneous Inorganics,0.008,0.008,0.011,0.001,0.001,Miscellaneous Inorganics,Other,Citywide
+Newspaper,0.018,0.011,0.004,0.101,0,Paper,Designated Paper,Brooklyn
+Plain OCC/Kraft Paper,0.055,0.012,0.016,0.474,0,Paper,Designated Paper,Brooklyn
+Paper Bags: Kraft Grocery,0.001,0.001,0,0.007,0,Paper,Designated Paper,Brooklyn
+Paper Bags: Non-food Retail,0.001,0.001,0,0.005,0,Paper,Designated Paper,Brooklyn
+Paper Bags: Fast Food Bags,0.001,0.001,0,0.001,0,Paper,Designated Paper,Brooklyn
+Paper Bags: Compostable/Soiled,0.003,0.003,0,0.002,0.003,Paper,Organics Suitable for Composting,Brooklyn
+High Grade Paper,0.004,0.003,0,0.017,0,Paper,Designated Paper,Brooklyn
+Mixed Low Grade Paper,0.08,0.062,0.026,0.291,0.008,Paper,Designated Paper,Brooklyn
+Compostable/Soiled Paper/Waxed OCC/Kraft,0.08,0.096,0.006,0.009,0.017,Paper,Organics Suitable for Composting,Brooklyn
+Compostable/School Plates/Trays,0,0,0,0,0.003,Paper,Organics Suitable for Composting,Brooklyn
+Compostable/School Paper Boats,0,0,0,0,0,Paper,Organics Suitable for Composting,Brooklyn
+Other Non-recyclable Paper,0.007,0.007,0.007,0.005,0.004,Paper,Other,Brooklyn
+Beverage Cartons & Aseptic Boxes,0.004,0.003,0.013,0.004,0.001,Paper,Designated MGP,Brooklyn
+Shredded Paper,0.003,0.001,0.001,0.023,0,Paper,Designated Paper,Brooklyn
+Drinking Cups - Paper and Plastic: Paper - Compostable,0,0,0,0,0,Paper,Organics Suitable for Composting,Brooklyn
+Drinking Cups - Paper and Plastic: Paper - Non-Compostable,0.003,0.003,0,0,0,Paper,Other,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #1 PET All,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Rigid,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #6 PS Rigid,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Durable: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Durable: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Durable: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Durable: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Durable: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Durable: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Drinking Cups - Paper and Plastic: Plastic - Durable: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+K-Cups: Predominanty Plastic: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+K-Cups: Predominanty Plastic: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+K-Cups: Predominanty Plastic: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+K-Cups: Predominanty Plastic: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+K-Cups: Predominanty Plastic: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+K-Cups: Predominanty Plastic: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+K-Cups: Predominanty Plastic: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+K-Cups: Predominanty Plastic: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+K-Cups: Predominanty Plastic: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+K-Cups: Predominanty Plastic: Compostable,0,0,0,0,0,Plastic,Organics Suitable for Composting,Brooklyn
+K-Cups: Predominanty Plastic: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+K-Cups: Predominanty Metal,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+K-Cups: Predominanty Organic,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Plastic Bottles: #1 PET - Clear,0.012,0.009,0.056,0.002,0.001,Plastic,Designated MGP,Brooklyn
+Plastic Bottles: #1 PET - Green,0,0,0.002,0,0,Plastic,Designated MGP,Brooklyn
+Plastic Bottles: #1 PET - Other,0.001,0.001,0.005,0,0,Plastic,Designated MGP,Brooklyn
+#2 HDPE Natural Bottles,0.005,0.002,0.031,0,0,Plastic,Designated MGP,Brooklyn
+#2 HDPE Colored Bottles,0.005,0.003,0.029,0,0,Plastic,Designated MGP,Brooklyn
+Plastic Bottles: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Plastic Bottles: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Plastic Bottles: #5 PP Rigid,0.001,0.001,0.004,0,0,Plastic,Designated MGP,Brooklyn
+Plastic Bottles: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Plastic Bottles: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Plastic Bottles: #7 Other,0,0,0.001,0,0,Plastic,Designated MGP,Brooklyn
+Plastic Bottles: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Plastic Bottles: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Thermoforms: #1 PET All,0.004,0.003,0.018,0.001,0.001,Plastic,Designated MGP,Brooklyn
+Thermoforms: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Thermoforms: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Thermoforms: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Thermoforms: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Thermoforms: #5 PP Rigid,0.002,0.002,0.009,0,0,Plastic,Designated MGP,Brooklyn
+Thermoforms: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Thermoforms: #6 PS Rigid,0.001,0.001,0.004,0,0,Plastic,Designated MGP,Brooklyn
+Thermoforms: #7 Other,0,0,0.001,0,0,Plastic,Designated MGP,Brooklyn
+Thermoforms: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Thermoforms: Other & Unlabeled,0.001,0.001,0.002,0.001,0,Plastic,Designated MGP,Brooklyn
+Other PVC (Non-bottle),0,0,0.002,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Tubs & Lids: #1 PET All,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Tubs & Lids: #2 HDPE Natural,0,0,0.002,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Tubs & Lids: #2 HDPE Pig.,0,0,0.003,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Tubs & Lids: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Tubs & Lids: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Tubs & Lids: #5 PP Rigid,0.004,0.004,0.012,0.001,0.001,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Tubs & Lids: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Rigid Plastics: Tubs & Lids: #6 PS Rigid,0.001,0.002,0.002,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Tubs & Lids: #7 Other,0,0,0.001,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Tubs & Lids: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Tubs & Lids: Other & Unlabeled,0.001,0.001,0.004,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Rigid Container/Pkg: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Rigid Container/Pkg: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Rigid Container/Pkg: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Rigid Container/Pkg: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Rigid Container/Pkg: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Rigid Plastics: Rigid Container/Pkg: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Rigid Container/Pkg: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Rigid Container/Pkg: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Rigid Container/Pkg: Other & Unlabeled,0,0,0.001,0,0,Plastic,Designated MGP,Brooklyn
+Expanded Polystyrene Containers & Packaging (EPS): Clamshells,0.002,0.002,0,0,0,Plastic,Other,Brooklyn
+Expanded Polystyrene Containers & Packaging (EPS): Single Use Cups,0,0,0,0,0,Plastic,Other,Brooklyn
+Expanded Polystyrene Containers & Packaging (EPS): Singe Use Other,0.002,0.002,0,0,0.001,Plastic,Other,Brooklyn
+Expanded Polystyrene Containers & Packaging (EPS): Food Packaging,0.003,0.004,0.001,0.001,0,Plastic,Other,Brooklyn
+Expanded Polystyrene Containers & Packaging (EPS): Non-food Packaging,0.001,0.001,0.001,0.002,0,Plastic,Other,Brooklyn
+Film: Garbage Bags,0.024,0.026,0.025,0.01,0.009,Plastic,Other,Brooklyn
+Film: Pouches,0,0,0.001,0,0,Plastic,Other,Brooklyn
+Film: Oversize: Other PE Film,0.002,0.002,0.001,0,0,Plastic,Other,Brooklyn
+Film: Oversize: Non-PE Film,0.002,0.002,0,0,0,Plastic,Other,Brooklyn
+Other Plastic Bags & Film: Grocery/Merch Bags,0.019,0.022,0.009,0.001,0.003,Plastic,Plastic Bags,Brooklyn
+Other Plastic Bags & Film: Produce Bags,0.001,0.001,0,0,0.001,Plastic,Plastic Bags,Brooklyn
+Other Plastic Bags & Film: Other Sleeves/Clean Bags,0.001,0.001,0,0.001,0.001,Plastic,Plastic Bags,Brooklyn
+Other Plastic Bags & Film: Compostable Bags,0,0,0.001,0,0.002,Plastic,Other,Brooklyn
+Other Plastic Bags & Film: Other PE Film,0.011,0.012,0.006,0.002,0.001,Plastic,Other,Brooklyn
+Other Plastic Bags & Film: Non-PE Film,0.011,0.013,0.004,0.001,0.004,Plastic,Other,Brooklyn
+Single Use: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Single Use: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Single Use: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Single Use: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Single Use: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Single Use: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Single Use: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Single Use: #6 PS Rigid,0.002,0.002,0.001,0,0,Plastic,Designated MGP,Brooklyn
+Single Use: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Single Use: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Single Use: Other & Unlabeled,0.003,0.004,0.001,0,0,Plastic,Designated MGP,Brooklyn
+Appliances: Plastic: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Appliances: Plastic: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Appliances: Plastic: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Appliances: Plastic: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Appliances: Plastic: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Appliances: Plastic: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Appliances: Plastic: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Appliances: Plastic: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Appliances: Plastic: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Appliances: Plastic: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Appliances: Plastic: Other & Unlabeled,0.001,0.001,0.003,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Crates/Soda Carrier: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Pig.,0,0,0.002,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Crates/Soda Carrier: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Crates/Soda Carrier: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Bulk/Rigid Plastics: Crates/Soda Carrier: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Crates/Soda Carrier: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Crates/Soda Carrier: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Crates/Soda Carrier: Other & Unlabeled,0.001,0,0.007,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Toys/Housewares: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Toys/Housewares: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Toys/Housewares: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Rigid,0.001,0,0.003,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Bulk/Rigid Plastics: Toys/Housewares: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Toys/Housewares: #7 Other,0,0,0.001,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Toys/Housewares: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Toys/Housewares: Other & Unlabeled,0.006,0.004,0.035,0.005,0.002,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Other Durable: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Pig.,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Other Durable: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Other Durable: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Other Durable: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Other Durable: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Bulk/Rigid Plastics: Other Durable: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Other Durable: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Other Durable: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Bulk/Rigid Plastics: Other Durable: Other & Unlabeled,0.002,0.002,0.007,0,0.003,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Other Plastics: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Other Plastics: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Other Plastics: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Other Plastics: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Other Plastics: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Other Plastics: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Other Plastics: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Brooklyn
+Rigid Plastics: Other Plastics: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Other Plastics: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Other Plastics: Compostable,0,0,0,0,0,Plastic,Designated MGP,Brooklyn
+Rigid Plastics: Other Plastics: Other & Unlabeled,0.011,0.012,0.02,0.002,0.001,Plastic,Designated MGP,Brooklyn
+Clear Container Glass,0.017,0.011,0.096,0.002,0.001,Glass,Designated MGP,Brooklyn
+Green Container Glass,0.005,0.002,0.041,0.001,0,Glass,Designated MGP,Brooklyn
+Brown Container Glass,0.003,0.002,0.018,0,0,Glass,Designated MGP,Brooklyn
+Other Color Container Glass,0.001,0.001,0.003,0,0,Glass,Designated MGP,Brooklyn
+Mixed Cullet,0.012,0.003,0.107,0.003,0,Glass,Designated MGP,Brooklyn
+Other Glass,0.003,0.003,0.008,0.001,0,Glass,Other,Brooklyn
+Aluminum Cans,0.003,0.002,0.011,0,0,Metal,Designated MGP,Brooklyn
+Aluminum Foil/Containers,0.009,0.01,0.014,0,0,Metal,Designated MGP,Brooklyn
+Other Aluminium,0,0,0.002,0,0,Metal,Designated MGP,Brooklyn
+Other Non-ferrous,0.002,0.002,0.009,0.001,0,Metal,Designated MGP,Brooklyn
+Steel/Tin Food Cans,0.008,0.005,0.044,0.001,0,Metal,Designated MGP,Brooklyn
+Empty Aerosol Cans,0.001,0.001,0.005,0,0,Metal,Designated MGP,Brooklyn
+Other Ferrous Metal,0.013,0.006,0.092,0.004,0,Metal,Designated MGP,Brooklyn
+Mixed Metals,0.008,0.007,0.023,0,0,Metal,Designated MGP,Brooklyn
+Appliances: Ferrous,0.004,0.002,0.026,0,0,Metal,Designated MGP,Brooklyn
+Appliances: Non-ferrous,0.001,0,0.006,0,0,Metal,Designated MGP,Brooklyn
+Yard Waste,0.045,0.051,0,0,0.567,Organic,Organics Suitable for Composting,Brooklyn
+Food,0.207,0.246,0.028,0.008,0.343,Organic,Organics Suitable for Composting,Brooklyn
+Non-C&D Wood,0.003,0.004,0.002,0.001,0,Organic,Other,Brooklyn
+Textiles:  Non-clothing,0.023,0.027,0.002,0.001,0,Organic,Textiles,Brooklyn
+Textiles:  Clothing,0.026,0.031,0.004,0.001,0,Organic,Textiles,Brooklyn
+Carpet/Upholstery,0.017,0.02,0,0,0,Organic,Other,Brooklyn
+Disposable Diapers & Sanitary Products,0.044,0.053,0.002,0,0.002,Organic,Other,Brooklyn
+Animal By-Products,0.015,0.018,0.001,0,0.001,Organic,Other,Brooklyn
+Shoes/Rubber/Leather,0.013,0.015,0.003,0.001,0,Organic,Textiles,Brooklyn
+Garden Hoses,0.001,0,0.007,0,0.003,Organic,Textiles,Brooklyn
+Fines,0.031,0.037,0.014,0.002,0.005,Organic,Other,Brooklyn
+Miscellaneous Organics,0.007,0.008,0.002,0,0.001,Organic,Other,Brooklyn
+Audio/Visual Equipment - TV Peripherals (Covered),0,0,0,0,0,E-Waste,E-Waste,Brooklyn
+Audio/Visual Equipment - Other (Non-covered),0.001,0.001,0.004,0,0.002,E-Waste,E-Waste,Brooklyn
+Computer Monitors,0,0,0,0,0,E-Waste,E-Waste,Brooklyn
+Televisions,0,0,0,0,0,E-Waste,E-Waste,Brooklyn
+Other Computer Equipment,0.001,0.001,0.002,0,0.001,E-Waste,E-Waste,Brooklyn
+Untreated Dimension Lumber/Pallets/Crates,0.005,0.005,0,0,0,C&D,C&D,Brooklyn
+Treated/Contaminated/Composite Wood,0.023,0.028,0.001,0,0,C&D,C&D,Brooklyn
+Other C&D Debris Not Elsewhere Classified,0.021,0.026,0.002,0.002,0,C&D,C&D,Brooklyn
+Oil Filters,0,0,0,0,0,Special Waste,HHW,Brooklyn
+Antifreeze,0,0,0,0,0,Special Waste,HHW,Brooklyn
+Wet-Cell Batteries,0,0,0,0,0,Special Waste,HHW,Brooklyn
+Water-Based Adhesives/Glues,0,0,0,0,0,Special Waste,HHW,Brooklyn
+Latex Paint,0.001,0.001,0.001,0,0,Special Waste,HHW,Brooklyn
+Oil-Based Paint/Solvent,0,0,0,0,0,Special Waste,HHW,Brooklyn
+Pesticides/Herbicides/Rodenticides,0,0,0.001,0,0,Special Waste,HHW,Brooklyn
+Dry-Cell Batteries,0,0,0.001,0,0,Special Waste,HHW,Brooklyn
+Fluorescent Tubes/CFLs,0,0,0,0,0,Special Waste,HHW,Brooklyn
+Mercury-Laden Wastes,0,0,0,0,0,Special Waste,HHW,Brooklyn
+Compressed Gas Cylinders/Fire Extinguishers,0,0,0,0,0,Special Waste,HHW,Brooklyn
+Home Medical Products,0.001,0.001,0.001,0,0,Special Waste,HHW,Brooklyn
+Other HHW,0,0,0,0,0,Special Waste,HHW,Brooklyn
+Miscellaneous Inorganics,0.009,0.01,0.012,0.001,0,Miscellaneous Inorganics,Other,Brooklyn
+Newspaper,0.018,0.01,0.011,0.095,0,Paper,Designated Paper,Queens
+Plain OCC/Kraft Paper,0.054,0.012,0.013,0.461,0.004,Paper,Designated Paper,Queens
+Paper Bags: Kraft Grocery,0.001,0.001,0.001,0.002,0,Paper,Designated Paper,Queens
+Paper Bags: Non-food Retail,0.002,0.002,0,0.008,0,Paper,Designated Paper,Queens
+Paper Bags: Fast Food Bags,0.001,0.002,0,0.001,0,Paper,Designated Paper,Queens
+Paper Bags: Compostable/Soiled,0.002,0.002,0,0.002,0.001,Paper,Organics Suitable for Composting,Queens
+High Grade Paper,0.006,0.004,0.001,0.026,0.001,Paper,Designated Paper,Queens
+Mixed Low Grade Paper,0.07,0.051,0.033,0.278,0.01,Paper,Designated Paper,Queens
+Compostable/Soiled Paper/Waxed OCC/Kraft,0.077,0.094,0.007,0.009,0.02,Paper,Organics Suitable for Composting,Queens
+Compostable/School Plates/Trays,0,0,0,0,0,Paper,Organics Suitable for Composting,Queens
+Compostable/School Paper Boats,0,0,0,0.002,0,Paper,Organics Suitable for Composting,Queens
+Other Non-recyclable Paper,0.008,0.009,0.007,0.005,0.005,Paper,Other,Queens
+Beverage Cartons & Aseptic Boxes,0.003,0.002,0.015,0.004,0,Paper,Designated MGP,Queens
+Shredded Paper,0.003,0.002,0,0.019,0.003,Paper,Designated Paper,Queens
+Drinking Cups - Paper and Plastic: Paper - Compostable,0,0,0,0,0,Paper,Organics Suitable for Composting,Queens
+Drinking Cups - Paper and Plastic: Paper - Non-Compostable,0.002,0.002,0.001,0,0.001,Paper,Other,Queens
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #1 PET All,0,0,0.001,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Rigid,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #6 PS Rigid,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Durable: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Durable: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Durable: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Drinking Cups - Paper and Plastic: Plastic - Durable: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Durable: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Durable: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Drinking Cups - Paper and Plastic: Plastic - Durable: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Queens
+K-Cups: Predominanty Plastic: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Queens
+K-Cups: Predominanty Plastic: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Queens
+K-Cups: Predominanty Plastic: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Queens
+K-Cups: Predominanty Plastic: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+K-Cups: Predominanty Plastic: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+K-Cups: Predominanty Plastic: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+K-Cups: Predominanty Plastic: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+K-Cups: Predominanty Plastic: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+K-Cups: Predominanty Plastic: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Queens
+K-Cups: Predominanty Plastic: Compostable,0,0,0,0,0,Plastic,Organics Suitable for Composting,Queens
+K-Cups: Predominanty Plastic: Other & Unlabeled,0,0.001,0,0,0,Plastic,Designated MGP,Queens
+K-Cups: Predominanty Metal,0,0,0,0,0,Plastic,Designated MGP,Queens
+K-Cups: Predominanty Organic,0,0.001,0,0,0,Plastic,Designated MGP,Queens
+Plastic Bottles: #1 PET - Clear,0.01,0.005,0.054,0.003,0.001,Plastic,Designated MGP,Queens
+Plastic Bottles: #1 PET - Green,0,0,0.002,0,0,Plastic,Designated MGP,Queens
+Plastic Bottles: #1 PET - Other,0.001,0,0.003,0,0,Plastic,Designated MGP,Queens
+#2 HDPE Natural Bottles,0.005,0.001,0.038,0,0,Plastic,Designated MGP,Queens
+#2 HDPE Colored Bottles,0.005,0.002,0.041,0,0.001,Plastic,Designated MGP,Queens
+Plastic Bottles: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+Plastic Bottles: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Plastic Bottles: #5 PP Rigid,0.001,0,0.004,0,0,Plastic,Designated MGP,Queens
+Plastic Bottles: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Plastic Bottles: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Plastic Bottles: #7 Other,0,0,0.001,0,0,Plastic,Designated MGP,Queens
+Plastic Bottles: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Plastic Bottles: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Queens
+Thermoforms: #1 PET All,0.004,0.002,0.021,0.002,0,Plastic,Designated MGP,Queens
+Thermoforms: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Queens
+Thermoforms: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Queens
+Thermoforms: #3 PVC,0,0,0.001,0,0,Plastic,Designated MGP,Queens
+Thermoforms: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Thermoforms: #5 PP Rigid,0.002,0.001,0.01,0,0,Plastic,Designated MGP,Queens
+Thermoforms: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Thermoforms: #6 PS Rigid,0.001,0.001,0.005,0,0,Plastic,Designated MGP,Queens
+Thermoforms: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Queens
+Thermoforms: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Thermoforms: Other & Unlabeled,0.001,0.001,0.003,0.001,0,Plastic,Designated MGP,Queens
+Other PVC (Non-bottle),0,0,0.001,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Tubs & Lids: #1 PET All,0,0,0.001,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Tubs & Lids: #2 HDPE Natural,0,0,0.001,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Tubs & Lids: #2 HDPE Pig.,0.001,0,0.004,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Tubs & Lids: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Tubs & Lids: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Tubs & Lids: #5 PP Rigid,0.004,0.003,0.011,0.001,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Tubs & Lids: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Rigid Plastics: Tubs & Lids: #6 PS Rigid,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Tubs & Lids: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Tubs & Lids: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Tubs & Lids: Other & Unlabeled,0.001,0.001,0.004,0.001,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Rigid Container/Pkg: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Rigid Container/Pkg: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Rigid Container/Pkg: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Rigid Container/Pkg: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Rigid Container/Pkg: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Rigid Plastics: Rigid Container/Pkg: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Rigid Container/Pkg: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Rigid Container/Pkg: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Rigid Container/Pkg: Other & Unlabeled,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Queens
+Expanded Polystyrene Containers & Packaging (EPS): Clamshells,0.002,0.002,0,0,0,Plastic,Other,Queens
+Expanded Polystyrene Containers & Packaging (EPS): Single Use Cups,0,0,0,0,0,Plastic,Other,Queens
+Expanded Polystyrene Containers & Packaging (EPS): Singe Use Other,0.001,0.001,0,0,0,Plastic,Other,Queens
+Expanded Polystyrene Containers & Packaging (EPS): Food Packaging,0.003,0.003,0.001,0,0,Plastic,Other,Queens
+Expanded Polystyrene Containers & Packaging (EPS): Non-food Packaging,0.001,0.002,0,0.001,0,Plastic,Other,Queens
+Film: Garbage Bags,0.019,0.02,0.024,0.009,0.007,Plastic,Other,Queens
+Film: Pouches,0,0,0,0,0,Plastic,Other,Queens
+Film: Oversize: Other PE Film,0.001,0.001,0.001,0.001,0,Plastic,Other,Queens
+Film: Oversize: Non-PE Film,0.002,0.002,0.002,0,0,Plastic,Other,Queens
+Other Plastic Bags & Film: Grocery/Merch Bags,0.017,0.02,0.009,0.002,0.01,Plastic,Plastic Bags,Queens
+Other Plastic Bags & Film: Produce Bags,0.001,0.001,0,0,0.001,Plastic,Plastic Bags,Queens
+Other Plastic Bags & Film: Other Sleeves/Clean Bags,0.001,0.001,0,0.002,0,Plastic,Plastic Bags,Queens
+Other Plastic Bags & Film: Compostable Bags,0,0,0,0,0.001,Plastic,Other,Queens
+Other Plastic Bags & Film: Other PE Film,0.009,0.01,0.007,0.002,0.005,Plastic,Other,Queens
+Other Plastic Bags & Film: Non-PE Film,0.01,0.012,0.005,0.001,0.002,Plastic,Other,Queens
+Single Use: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Queens
+Single Use: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Queens
+Single Use: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Queens
+Single Use: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+Single Use: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Single Use: #5 PP Rigid,0,0,0.001,0,0,Plastic,Designated MGP,Queens
+Single Use: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Single Use: #6 PS Rigid,0,0,0.001,0,0,Plastic,Designated MGP,Queens
+Single Use: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Queens
+Single Use: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Single Use: Other & Unlabeled,0.001,0.002,0.002,0,0,Plastic,Designated MGP,Queens
+Appliances: Plastic: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Queens
+Appliances: Plastic: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Queens
+Appliances: Plastic: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Queens
+Appliances: Plastic: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+Appliances: Plastic: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Appliances: Plastic: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Appliances: Plastic: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Appliances: Plastic: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Appliances: Plastic: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Queens
+Appliances: Plastic: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Appliances: Plastic: Other & Unlabeled,0.001,0.001,0.004,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Crates/Soda Carrier: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Crates/Soda Carrier: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Crates/Soda Carrier: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Bulk/Rigid Plastics: Crates/Soda Carrier: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Crates/Soda Carrier: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Crates/Soda Carrier: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Crates/Soda Carrier: Other & Unlabeled,0,0,0.002,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Toys/Housewares: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Pig.,0,0,0.003,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Toys/Housewares: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Toys/Housewares: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Rigid,0,0,0.001,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Bulk/Rigid Plastics: Toys/Housewares: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Toys/Housewares: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Toys/Housewares: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Toys/Housewares: Other & Unlabeled,0.007,0.004,0.04,0.005,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Other Durable: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Pig.,0,0,0.003,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Other Durable: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Other Durable: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Other Durable: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Other Durable: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Bulk/Rigid Plastics: Other Durable: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Other Durable: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Other Durable: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Bulk/Rigid Plastics: Other Durable: Other & Unlabeled,0.002,0.002,0.003,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Other Plastics: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Other Plastics: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Other Plastics: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Other Plastics: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Other Plastics: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Other Plastics: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Other Plastics: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Queens
+Rigid Plastics: Other Plastics: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Other Plastics: #7 Other,0,0,0.001,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Other Plastics: Compostable,0,0,0,0,0,Plastic,Designated MGP,Queens
+Rigid Plastics: Other Plastics: Other & Unlabeled,0.013,0.012,0.025,0.003,0,Plastic,Designated MGP,Queens
+Clear Container Glass,0.016,0.008,0.101,0.003,0.001,Glass,Designated MGP,Queens
+Green Container Glass,0.005,0.001,0.04,0.001,0,Glass,Designated MGP,Queens
+Brown Container Glass,0.003,0.002,0.017,0.001,0,Glass,Designated MGP,Queens
+Other Color Container Glass,0.001,0,0.003,0,0,Glass,Designated MGP,Queens
+Mixed Cullet,0.011,0.003,0.082,0.002,0,Glass,Designated MGP,Queens
+Other Glass,0.003,0.003,0.007,0.002,0.002,Glass,Other,Queens
+Aluminum Cans,0.002,0.002,0.007,0,0,Metal,Designated MGP,Queens
+Aluminum Foil/Containers,0.007,0.007,0.012,0,0,Metal,Designated MGP,Queens
+Other Aluminium,0,0,0.003,0,0,Metal,Designated MGP,Queens
+Other Non-ferrous,0.003,0.002,0.011,0,0,Metal,Designated MGP,Queens
+Steel/Tin Food Cans,0.007,0.003,0.045,0.003,0,Metal,Designated MGP,Queens
+Empty Aerosol Cans,0.002,0.001,0.006,0,0,Metal,Designated MGP,Queens
+Other Ferrous Metal,0.01,0.004,0.063,0.002,0,Metal,Designated MGP,Queens
+Mixed Metals,0.012,0.01,0.04,0,0,Metal,Designated MGP,Queens
+Appliances: Ferrous,0.003,0,0.029,0,0,Metal,Designated MGP,Queens
+Appliances: Non-ferrous,0.002,0.001,0.009,0,0,Metal,Designated MGP,Queens
+Yard Waste,0.088,0.104,0,0.002,0.525,Organic,Organics Suitable for Composting,Queens
+Food,0.217,0.262,0.028,0.013,0.368,Organic,Organics Suitable for Composting,Queens
+Non-C&D Wood,0.005,0.006,0.002,0.002,0,Organic,Other,Queens
+Textiles:  Non-clothing,0.02,0.024,0.001,0.001,0.001,Organic,Textiles,Queens
+Textiles:  Clothing,0.026,0.032,0.001,0.002,0.003,Organic,Textiles,Queens
+Carpet/Upholstery,0.009,0.011,0,0,0,Organic,Other,Queens
+Disposable Diapers & Sanitary Products,0.044,0.054,0.002,0.002,0.004,Organic,Other,Queens
+Animal By-Products,0.014,0.017,0.003,0,0.001,Organic,Other,Queens
+Shoes/Rubber/Leather,0.011,0.013,0.003,0.002,0,Organic,Textiles,Queens
+Garden Hoses,0,0,0.002,0,0,Organic,Textiles,Queens
+Fines,0.028,0.032,0.012,0.003,0.005,Organic,Other,Queens
+Miscellaneous Organics,0.005,0.006,0.004,0.001,0.008,Organic,Other,Queens
+Audio/Visual Equipment - TV Peripherals (Covered),0.001,0.001,0,0,0,E-Waste,E-Waste,Queens
+Audio/Visual Equipment - Other (Non-covered),0.001,0.001,0.002,0,0,E-Waste,E-Waste,Queens
+Computer Monitors,0,0,0.002,0,0,E-Waste,E-Waste,Queens
+Televisions,0,0,0,0,0,E-Waste,E-Waste,Queens
+Other Computer Equipment,0.001,0.001,0.001,0.001,0,E-Waste,E-Waste,Queens
+Untreated Dimension Lumber/Pallets/Crates,0.004,0.006,0,0,0,C&D,C&D,Queens
+Treated/Contaminated/Composite Wood,0.023,0.028,0.001,0,0,C&D,C&D,Queens
+Other C&D Debris Not Elsewhere Classified,0.024,0.029,0.005,0,0.001,C&D,C&D,Queens
+Oil Filters,0,0,0,0,0,Special Waste,HHW,Queens
+Antifreeze,0,0,0,0,0,Special Waste,HHW,Queens
+Wet-Cell Batteries,0,0,0,0,0,Special Waste,HHW,Queens
+Water-Based Adhesives/Glues,0,0,0,0,0,Special Waste,HHW,Queens
+Latex Paint,0.001,0.001,0,0,0.001,Special Waste,HHW,Queens
+Oil-Based Paint/Solvent,0.001,0.001,0.001,0,0,Special Waste,HHW,Queens
+Pesticides/Herbicides/Rodenticides,0,0,0,0,0,Special Waste,HHW,Queens
+Dry-Cell Batteries,0.001,0.001,0.001,0,0,Special Waste,HHW,Queens
+Fluorescent Tubes/CFLs,0,0,0,0.001,0,Special Waste,HHW,Queens
+Mercury-Laden Wastes,0,0,0,0,0,Special Waste,HHW,Queens
+Compressed Gas Cylinders/Fire Extinguishers,0,0,0,0,0,Special Waste,HHW,Queens
+Home Medical Products,0.001,0.001,0.001,0.001,0,Special Waste,HHW,Queens
+Other HHW,0,0,0.002,0.002,0,Special Waste,HHW,Queens
+Miscellaneous Inorganics,0.007,0.007,0.012,0,0.001,Miscellaneous Inorganics,Other,Queens
+Newspaper,0.028,0.018,0.001,0.105,,Paper,Designated Paper,Manhattan
+Plain OCC/Kraft Paper,0.07,0.014,0.001,0.452,,Paper,Designated Paper,Manhattan
+Paper Bags: Kraft Grocery,0.005,0.004,0,0.017,,Paper,Designated Paper,Manhattan
+Paper Bags: Non-food Retail,0.004,0.003,0,0.013,,Paper,Designated Paper,Manhattan
+Paper Bags: Fast Food Bags,0.003,0.003,0,0.002,,Paper,Designated Paper,Manhattan
+Paper Bags: Compostable/Soiled,0.004,0.005,0,0.002,,Paper,Organics Suitable for Composting,Manhattan
+High Grade Paper,0.014,0.013,0,0.03,,Paper,Designated Paper,Manhattan
+Mixed Low Grade Paper,0.107,0.088,0.011,0.293,,Paper,Designated Paper,Manhattan
+Compostable/Soiled Paper/Waxed OCC/Kraft,0.08,0.1,0.004,0.018,,Paper,Organics Suitable for Composting,Manhattan
+Compostable/School Plates/Trays,0.002,0.003,0,0,,Paper,Organics Suitable for Composting,Manhattan
+Compostable/School Paper Boats,0,0,0,0,,Paper,Organics Suitable for Composting,Manhattan
+Other Non-recyclable Paper,0.009,0.01,0.004,0.005,,Paper,Other,Manhattan
+Beverage Cartons & Aseptic Boxes,0.005,0.004,0.014,0.003,,Paper,Designated MGP,Manhattan
+Shredded Paper,0.004,0.004,0,0.008,,Paper,Designated Paper,Manhattan
+Drinking Cups - Paper and Plastic: Paper - Compostable,0,0,0,0,,Paper,Organics Suitable for Composting,Manhattan
+Drinking Cups - Paper and Plastic: Paper - Non-Compostable,0.004,0.005,0.001,0.001,,Paper,Other,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #1 PET All,0.001,0.001,0.001,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Rigid,0.001,0.001,0.002,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #6 PS Rigid,0.001,0.001,0.002,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #7 Other,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Other & Unlabeled,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Durable: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Durable: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Durable: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Durable: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Durable: #7 Other,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Durable: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Drinking Cups - Paper and Plastic: Plastic - Durable: Other & Unlabeled,0,0,0,0,,Plastic,Designated MGP,Manhattan
+K-Cups: Predominanty Plastic: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Manhattan
+K-Cups: Predominanty Plastic: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Manhattan
+K-Cups: Predominanty Plastic: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Manhattan
+K-Cups: Predominanty Plastic: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+K-Cups: Predominanty Plastic: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+K-Cups: Predominanty Plastic: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+K-Cups: Predominanty Plastic: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+K-Cups: Predominanty Plastic: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+K-Cups: Predominanty Plastic: #7 Other,0,0,0,0,,Plastic,Designated MGP,Manhattan
+K-Cups: Predominanty Plastic: Compostable,0,0,0,0,,Plastic,Organics Suitable for Composting,Manhattan
+K-Cups: Predominanty Plastic: Other & Unlabeled,0,0.001,0,0,,Plastic,Designated MGP,Manhattan
+K-Cups: Predominanty Metal,0,0,0,0,,Plastic,Designated MGP,Manhattan
+K-Cups: Predominanty Organic,0.001,0.001,0,0,,Plastic,Designated MGP,Manhattan
+Plastic Bottles: #1 PET - Clear,0.012,0.01,0.046,0.001,,Plastic,Designated MGP,Manhattan
+Plastic Bottles: #1 PET - Green,0,0,0.001,0,,Plastic,Designated MGP,Manhattan
+Plastic Bottles: #1 PET - Other,0.001,0,0.004,0,,Plastic,Designated MGP,Manhattan
+#2 HDPE Natural Bottles,0.004,0.002,0.023,0,,Plastic,Designated MGP,Manhattan
+#2 HDPE Colored Bottles,0.005,0.003,0.027,0,,Plastic,Designated MGP,Manhattan
+Plastic Bottles: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Plastic Bottles: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Plastic Bottles: #5 PP Rigid,0.001,0.001,0.002,0,,Plastic,Designated MGP,Manhattan
+Plastic Bottles: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Plastic Bottles: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Plastic Bottles: #7 Other,0,0,0.001,0,,Plastic,Designated MGP,Manhattan
+Plastic Bottles: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Plastic Bottles: Other & Unlabeled,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Thermoforms: #1 PET All,0.007,0.005,0.029,0.001,,Plastic,Designated MGP,Manhattan
+Thermoforms: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Thermoforms: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Thermoforms: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Thermoforms: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Thermoforms: #5 PP Rigid,0.003,0.002,0.011,0,,Plastic,Designated MGP,Manhattan
+Thermoforms: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Thermoforms: #6 PS Rigid,0.002,0.002,0.005,0,,Plastic,Designated MGP,Manhattan
+Thermoforms: #7 Other,0,0,0.001,0,,Plastic,Designated MGP,Manhattan
+Thermoforms: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Thermoforms: Other & Unlabeled,0.001,0.001,0.002,0,,Plastic,Designated MGP,Manhattan
+Other PVC (Non-bottle),0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Tubs & Lids: #1 PET All,0.001,0.001,0.002,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Tubs & Lids: #2 HDPE Natural,0,0,0.002,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Tubs & Lids: #2 HDPE Pig.,0.001,0,0.004,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Tubs & Lids: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Tubs & Lids: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Tubs & Lids: #5 PP Rigid,0.006,0.006,0.014,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Tubs & Lids: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Rigid Plastics: Tubs & Lids: #6 PS Rigid,0.002,0.002,0.002,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Tubs & Lids: #7 Other,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Tubs & Lids: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Tubs & Lids: Other & Unlabeled,0.002,0.002,0.005,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Rigid Container/Pkg: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Rigid Container/Pkg: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Rigid Container/Pkg: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Rigid Container/Pkg: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Rigid Container/Pkg: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Rigid Plastics: Rigid Container/Pkg: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Rigid Container/Pkg: #7 Other,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Rigid Container/Pkg: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Rigid Container/Pkg: Other & Unlabeled,0.001,0.001,0.001,0,,Plastic,Designated MGP,Manhattan
+Expanded Polystyrene Containers & Packaging (EPS): Clamshells,0.001,0.001,0,0,,Plastic,Other,Manhattan
+Expanded Polystyrene Containers & Packaging (EPS): Single Use Cups,0,0,0,0,,Plastic,Other,Manhattan
+Expanded Polystyrene Containers & Packaging (EPS): Singe Use Other,0.001,0.001,0,0,,Plastic,Other,Manhattan
+Expanded Polystyrene Containers & Packaging (EPS): Food Packaging,0.002,0.002,0,0,,Plastic,Other,Manhattan
+Expanded Polystyrene Containers & Packaging (EPS): Non-food Packaging,0.002,0.002,0,0.001,,Plastic,Other,Manhattan
+Film: Garbage Bags,0.033,0.035,0.038,0.016,,Plastic,Other,Manhattan
+Film: Pouches,0,0,0,0,,Plastic,Other,Manhattan
+Film: Oversize: Other PE Film,0.002,0.002,0,0,,Plastic,Other,Manhattan
+Film: Oversize: Non-PE Film,0.001,0.002,0,0,,Plastic,Other,Manhattan
+Other Plastic Bags & Film: Grocery/Merch Bags,0.015,0.019,0.005,0.001,,Plastic,Plastic Bags,Manhattan
+Other Plastic Bags & Film: Produce Bags,0.001,0.001,0,0,,Plastic,Plastic Bags,Manhattan
+Other Plastic Bags & Film: Other Sleeves/Clean Bags,0.001,0.001,0,0.001,,Plastic,Plastic Bags,Manhattan
+Other Plastic Bags & Film: Compostable Bags,0,0,0,0,,Plastic,Other,Manhattan
+Other Plastic Bags & Film: Other PE Film,0.009,0.011,0.006,0.001,,Plastic,Other,Manhattan
+Other Plastic Bags & Film: Non-PE Film,0.011,0.014,0.003,0.001,,Plastic,Other,Manhattan
+Single Use: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Single Use: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Single Use: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Single Use: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Single Use: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Single Use: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Single Use: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Single Use: #6 PS Rigid,0.001,0.001,0.001,0,,Plastic,Designated MGP,Manhattan
+Single Use: #7 Other,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Single Use: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Single Use: Other & Unlabeled,0.003,0.003,0.001,0,,Plastic,Designated MGP,Manhattan
+Appliances: Plastic: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Appliances: Plastic: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Appliances: Plastic: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Appliances: Plastic: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Appliances: Plastic: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Appliances: Plastic: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Appliances: Plastic: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Appliances: Plastic: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Appliances: Plastic: #7 Other,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Appliances: Plastic: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Appliances: Plastic: Other & Unlabeled,0.001,0.001,0.001,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Crates/Soda Carrier: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Crates/Soda Carrier: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Crates/Soda Carrier: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Bulk/Rigid Plastics: Crates/Soda Carrier: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Crates/Soda Carrier: #7 Other,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Crates/Soda Carrier: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Crates/Soda Carrier: Other & Unlabeled,0,0,0.001,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Toys/Housewares: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Pig.,0,0,0.001,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Toys/Housewares: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Toys/Housewares: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Bulk/Rigid Plastics: Toys/Housewares: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Toys/Housewares: #7 Other,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Toys/Housewares: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Toys/Housewares: Other & Unlabeled,0.005,0.003,0.026,0.002,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Other Durable: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Other Durable: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Other Durable: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Other Durable: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Other Durable: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Bulk/Rigid Plastics: Other Durable: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Other Durable: #7 Other,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Other Durable: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Bulk/Rigid Plastics: Other Durable: Other & Unlabeled,0.001,0,0.006,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Other Plastics: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Other Plastics: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Other Plastics: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Other Plastics: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Other Plastics: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Other Plastics: #5 PP Rigid,0,0,0.001,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Other Plastics: #5 PP Expanded,0,0,0,0,,Plastic,Other,Manhattan
+Rigid Plastics: Other Plastics: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Other Plastics: #7 Other,0,0,0.001,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Other Plastics: Compostable,0,0,0,0,,Plastic,Designated MGP,Manhattan
+Rigid Plastics: Other Plastics: Other & Unlabeled,0.011,0.012,0.02,0.001,,Plastic,Designated MGP,Manhattan
+Clear Container Glass,0.017,0.011,0.082,0.001,,Glass,Designated MGP,Manhattan
+Green Container Glass,0.013,0.007,0.074,0.002,,Glass,Designated MGP,Manhattan
+Brown Container Glass,0.005,0.003,0.019,0,,Glass,Designated MGP,Manhattan
+Other Color Container Glass,0.001,0.001,0.002,0.001,,Glass,Designated MGP,Manhattan
+Mixed Cullet,0.03,0.004,0.272,0,,Glass,Designated MGP,Manhattan
+Other Glass,0.003,0.003,0.008,0,,Glass,Other,Manhattan
+Aluminum Cans,0.003,0.003,0.008,0,,Metal,Designated MGP,Manhattan
+Aluminum Foil/Containers,0.006,0.006,0.007,0,,Metal,Designated MGP,Manhattan
+Other Aluminium,0.001,0.002,0.001,0,,Metal,Designated MGP,Manhattan
+Other Non-ferrous,0.003,0.002,0.011,0,,Metal,Designated MGP,Manhattan
+Steel/Tin Food Cans,0.006,0.004,0.033,0,,Metal,Designated MGP,Manhattan
+Empty Aerosol Cans,0.001,0.001,0.005,0,,Metal,Designated MGP,Manhattan
+Other Ferrous Metal,0.009,0.006,0.046,0.001,,Metal,Designated MGP,Manhattan
+Mixed Metals,0.002,0.002,0.006,0,,Metal,Designated MGP,Manhattan
+Appliances: Ferrous,0.002,0,0.021,0,,Metal,Designated MGP,Manhattan
+Appliances: Non-ferrous,0.001,0.001,0.002,0,,Metal,Designated MGP,Manhattan
+Yard Waste,0.01,0.014,0,0,,Organic,Organics Suitable for Composting,Manhattan
+Food,0.19,0.245,0.011,0.006,,Organic,Organics Suitable for Composting,Manhattan
+Non-C&D Wood,0.007,0.009,0.001,0.001,,Organic,Other,Manhattan
+Textiles:  Non-clothing,0.028,0.035,0.002,0.001,,Organic,Textiles,Manhattan
+Textiles:  Clothing,0.022,0.029,0,0.002,,Organic,Textiles,Manhattan
+Carpet/Upholstery,0.018,0.023,0,0,,Organic,Other,Manhattan
+Disposable Diapers & Sanitary Products,0.034,0.044,0,0,,Organic,Other,Manhattan
+Animal By-Products,0.011,0.014,0.001,0,,Organic,Other,Manhattan
+Shoes/Rubber/Leather,0.008,0.01,0.002,0,,Organic,Textiles,Manhattan
+Garden Hoses,0,0,0,0,,Organic,Textiles,Manhattan
+Fines,0.028,0.034,0.021,0.002,,Organic,Other,Manhattan
+Miscellaneous Organics,0.004,0.005,0.001,0,,Organic,Other,Manhattan
+Audio/Visual Equipment - TV Peripherals (Covered),0,0,0.002,0,,E-Waste,E-Waste,Manhattan
+Audio/Visual Equipment - Other (Non-covered),0.001,0.001,0.002,0,,E-Waste,E-Waste,Manhattan
+Computer Monitors,0,0,0,0,,E-Waste,E-Waste,Manhattan
+Televisions,0,0,0,0,,E-Waste,E-Waste,Manhattan
+Other Computer Equipment,0.003,0.003,0.008,0,,E-Waste,E-Waste,Manhattan
+Untreated Dimension Lumber/Pallets/Crates,0.001,0.001,0,0,,C&D,C&D,Manhattan
+Treated/Contaminated/Composite Wood,0.004,0.006,0,0,,C&D,C&D,Manhattan
+Other C&D Debris Not Elsewhere Classified,0.016,0.02,0.001,0,,C&D,C&D,Manhattan
+Oil Filters,0,0,0,0,,Special Waste,HHW,Manhattan
+Antifreeze,0,0,0,0,,Special Waste,HHW,Manhattan
+Wet-Cell Batteries,0,0,0,0,,Special Waste,HHW,Manhattan
+Water-Based Adhesives/Glues,0,0,0,0,,Special Waste,HHW,Manhattan
+Latex Paint,0,0,0,0,,Special Waste,HHW,Manhattan
+Oil-Based Paint/Solvent,0,0,0,0,,Special Waste,HHW,Manhattan
+Pesticides/Herbicides/Rodenticides,0,0,0,0,,Special Waste,HHW,Manhattan
+Dry-Cell Batteries,0.001,0.001,0.001,0,,Special Waste,HHW,Manhattan
+Fluorescent Tubes/CFLs,0,0,0,0,,Special Waste,HHW,Manhattan
+Mercury-Laden Wastes,0,0,0,0,,Special Waste,HHW,Manhattan
+Compressed Gas Cylinders/Fire Extinguishers,0,0,0,0,,Special Waste,HHW,Manhattan
+Home Medical Products,0.004,0.004,0.001,0,,Special Waste,HHW,Manhattan
+Other HHW,0.002,0.002,0.001,0,,Special Waste,HHW,Manhattan
+Miscellaneous Inorganics,0.009,0.01,0.01,0.003,,Miscellaneous Inorganics,Other,Manhattan
+Newspaper,0.021,0.007,0.008,0.137,0,Paper,Designated Paper,Staten Island
+Plain OCC/Kraft Paper,0.053,0.013,0.007,0.403,0.002,Paper,Designated Paper,Staten Island
+Paper Bags: Kraft Grocery,0.002,0.001,0,0.008,0,Paper,Designated Paper,Staten Island
+Paper Bags: Non-food Retail,0.002,0.002,0,0.007,0,Paper,Designated Paper,Staten Island
+Paper Bags: Fast Food Bags,0.001,0.001,0,0.001,0,Paper,Designated Paper,Staten Island
+Paper Bags: Compostable/Soiled,0.001,0.001,0,0.002,0.004,Paper,Organics Suitable for Composting,Staten Island
+High Grade Paper,0.006,0.005,0.002,0.018,0,Paper,Designated Paper,Staten Island
+Mixed Low Grade Paper,0.081,0.058,0.023,0.309,0,Paper,Designated Paper,Staten Island
+Compostable/Soiled Paper/Waxed OCC/Kraft,0.087,0.108,0.008,0.008,0.002,Paper,Organics Suitable for Composting,Staten Island
+Compostable/School Plates/Trays,0,0,0,0,0,Paper,Organics Suitable for Composting,Staten Island
+Compostable/School Paper Boats,0,0,0,0,0,Paper,Organics Suitable for Composting,Staten Island
+Other Non-recyclable Paper,0.009,0.01,0.007,0.008,0.001,Paper,Other,Staten Island
+Beverage Cartons & Aseptic Boxes,0.003,0.002,0.01,0.002,0,Paper,Designated MGP,Staten Island
+Shredded Paper,0.004,0,0,0.031,0,Paper,Designated Paper,Staten Island
+Drinking Cups - Paper and Plastic: Paper - Compostable,0,0,0,0,0,Paper,Organics Suitable for Composting,Staten Island
+Drinking Cups - Paper and Plastic: Paper - Non-Compostable,0.002,0.002,0.001,0,0,Paper,Other,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #1 PET All,0,0,0.001,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Rigid,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #6 PS Rigid,0.002,0.002,0.002,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Durable: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Durable: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Durable: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Durable: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Durable: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Durable: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Drinking Cups - Paper and Plastic: Plastic - Durable: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+K-Cups: Predominanty Plastic: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+K-Cups: Predominanty Plastic: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+K-Cups: Predominanty Plastic: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+K-Cups: Predominanty Plastic: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+K-Cups: Predominanty Plastic: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+K-Cups: Predominanty Plastic: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+K-Cups: Predominanty Plastic: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+K-Cups: Predominanty Plastic: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+K-Cups: Predominanty Plastic: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+K-Cups: Predominanty Plastic: Compostable,0,0,0,0,0,Plastic,Organics Suitable for Composting,Staten Island
+K-Cups: Predominanty Plastic: Other & Unlabeled,0.002,0.002,0,0,0,Plastic,Designated MGP,Staten Island
+K-Cups: Predominanty Metal,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+K-Cups: Predominanty Organic,0.001,0.001,0,0,0,Plastic,Designated MGP,Staten Island
+Plastic Bottles: #1 PET - Clear,0.012,0.007,0.063,0.002,0,Plastic,Designated MGP,Staten Island
+Plastic Bottles: #1 PET - Green,0,0,0.002,0,0,Plastic,Designated MGP,Staten Island
+Plastic Bottles: #1 PET - Other,0.001,0,0.004,0,0,Plastic,Designated MGP,Staten Island
+#2 HDPE Natural Bottles,0.003,0.001,0.022,0,0,Plastic,Designated MGP,Staten Island
+#2 HDPE Colored Bottles,0.005,0.002,0.032,0,0,Plastic,Designated MGP,Staten Island
+Plastic Bottles: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Plastic Bottles: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Plastic Bottles: #5 PP Rigid,0,0,0.002,0,0,Plastic,Designated MGP,Staten Island
+Plastic Bottles: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Plastic Bottles: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Plastic Bottles: #7 Other,0,0,0.002,0,0,Plastic,Designated MGP,Staten Island
+Plastic Bottles: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Plastic Bottles: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Thermoforms: #1 PET All,0.005,0.003,0.019,0.001,0,Plastic,Designated MGP,Staten Island
+Thermoforms: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Thermoforms: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Thermoforms: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Thermoforms: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Thermoforms: #5 PP Rigid,0.002,0.002,0.01,0,0,Plastic,Designated MGP,Staten Island
+Thermoforms: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Thermoforms: #6 PS Rigid,0.001,0.001,0.004,0,0,Plastic,Designated MGP,Staten Island
+Thermoforms: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Thermoforms: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Thermoforms: Other & Unlabeled,0.001,0.001,0.002,0.001,0,Plastic,Designated MGP,Staten Island
+Other PVC (Non-bottle),0,0,0.001,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Tubs & Lids: #1 PET All,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Tubs & Lids: #2 HDPE Natural,0,0,0.002,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Tubs & Lids: #2 HDPE Pig.,0.001,0,0.003,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Tubs & Lids: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Tubs & Lids: #4 LDPE/LLDPE,0,0,0.001,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Tubs & Lids: #5 PP Rigid,0.004,0.004,0.01,0.002,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Tubs & Lids: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Rigid Plastics: Tubs & Lids: #6 PS Rigid,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Tubs & Lids: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Tubs & Lids: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Tubs & Lids: Other & Unlabeled,0.001,0.001,0.004,0.001,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Rigid Container/Pkg: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Rigid Container/Pkg: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Rigid Container/Pkg: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Rigid Container/Pkg: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Rigid Container/Pkg: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Rigid Plastics: Rigid Container/Pkg: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Rigid Container/Pkg: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Rigid Container/Pkg: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Rigid Container/Pkg: Other & Unlabeled,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Staten Island
+Expanded Polystyrene Containers & Packaging (EPS): Clamshells,0.001,0.001,0,0,0,Plastic,Other,Staten Island
+Expanded Polystyrene Containers & Packaging (EPS): Single Use Cups,0,0,0,0,0,Plastic,Other,Staten Island
+Expanded Polystyrene Containers & Packaging (EPS): Singe Use Other,0.001,0.002,0,0,0,Plastic,Other,Staten Island
+Expanded Polystyrene Containers & Packaging (EPS): Food Packaging,0.002,0.003,0.001,0,0,Plastic,Other,Staten Island
+Expanded Polystyrene Containers & Packaging (EPS): Non-food Packaging,0.001,0.002,0,0.001,0,Plastic,Other,Staten Island
+Film: Garbage Bags,0.018,0.019,0.023,0.007,0.008,Plastic,Other,Staten Island
+Film: Pouches,0,0,0,0,0,Plastic,Other,Staten Island
+Film: Oversize: Other PE Film,0.002,0.002,0.001,0,0,Plastic,Other,Staten Island
+Film: Oversize: Non-PE Film,0.003,0.004,0.001,0,0,Plastic,Other,Staten Island
+Other Plastic Bags & Film: Grocery/Merch Bags,0.012,0.013,0.009,0.002,0.001,Plastic,Plastic Bags,Staten Island
+Other Plastic Bags & Film: Produce Bags,0,0.001,0,0,0,Plastic,Plastic Bags,Staten Island
+Other Plastic Bags & Film: Other Sleeves/Clean Bags,0.001,0.001,0,0.001,0,Plastic,Plastic Bags,Staten Island
+Other Plastic Bags & Film: Compostable Bags,0,0,0,0,0,Plastic,Other,Staten Island
+Other Plastic Bags & Film: Other PE Film,0.007,0.008,0.005,0.002,0,Plastic,Other,Staten Island
+Other Plastic Bags & Film: Non-PE Film,0.011,0.012,0.006,0.002,0,Plastic,Other,Staten Island
+Single Use: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Single Use: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Single Use: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Single Use: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Single Use: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Single Use: #5 PP Rigid,0,0,0.001,0,0,Plastic,Designated MGP,Staten Island
+Single Use: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Single Use: #6 PS Rigid,0,0,0.001,0,0,Plastic,Designated MGP,Staten Island
+Single Use: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Single Use: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Single Use: Other & Unlabeled,0.001,0.002,0.001,0,0,Plastic,Designated MGP,Staten Island
+Appliances: Plastic: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Appliances: Plastic: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Appliances: Plastic: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Appliances: Plastic: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Appliances: Plastic: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Appliances: Plastic: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Appliances: Plastic: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Appliances: Plastic: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Appliances: Plastic: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Appliances: Plastic: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Appliances: Plastic: Other & Unlabeled,0.001,0.001,0.007,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Crates/Soda Carrier: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Crates/Soda Carrier: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Crates/Soda Carrier: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Bulk/Rigid Plastics: Crates/Soda Carrier: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Crates/Soda Carrier: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Crates/Soda Carrier: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Crates/Soda Carrier: Other & Unlabeled,0,0,0.001,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Toys/Housewares: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Toys/Housewares: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Toys/Housewares: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Bulk/Rigid Plastics: Toys/Housewares: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Toys/Housewares: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Toys/Housewares: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Toys/Housewares: Other & Unlabeled,0.006,0.003,0.034,0.004,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Other Durable: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Pig.,0,0,0.003,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Other Durable: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Other Durable: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Other Durable: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Other Durable: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Bulk/Rigid Plastics: Other Durable: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Other Durable: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Other Durable: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Bulk/Rigid Plastics: Other Durable: Other & Unlabeled,0.003,0.002,0.009,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Other Plastics: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Other Plastics: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Other Plastics: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Other Plastics: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Other Plastics: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Other Plastics: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Other Plastics: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Staten Island
+Rigid Plastics: Other Plastics: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Other Plastics: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Other Plastics: Compostable,0,0,0,0,0,Plastic,Designated MGP,Staten Island
+Rigid Plastics: Other Plastics: Other & Unlabeled,0.01,0.01,0.021,0.002,0,Plastic,Designated MGP,Staten Island
+Clear Container Glass,0.015,0.008,0.082,0.004,0,Glass,Designated MGP,Staten Island
+Green Container Glass,0.005,0.002,0.032,0.001,0,Glass,Designated MGP,Staten Island
+Brown Container Glass,0.003,0.001,0.02,0.001,0,Glass,Designated MGP,Staten Island
+Other Color Container Glass,0,0,0.001,0,0,Glass,Designated MGP,Staten Island
+Mixed Cullet,0.011,0.001,0.108,0,0,Glass,Designated MGP,Staten Island
+Other Glass,0.003,0.003,0.005,0,0,Glass,Other,Staten Island
+Aluminum Cans,0.003,0.002,0.012,0,0,Metal,Designated MGP,Staten Island
+Aluminum Foil/Containers,0.007,0.007,0.014,0,0.002,Metal,Designated MGP,Staten Island
+Other Aluminium,0,0,0.003,0,0,Metal,Designated MGP,Staten Island
+Other Non-ferrous,0.002,0.002,0.006,0.001,0.001,Metal,Designated MGP,Staten Island
+Steel/Tin Food Cans,0.007,0.003,0.042,0,0,Metal,Designated MGP,Staten Island
+Empty Aerosol Cans,0.002,0.001,0.007,0,0,Metal,Designated MGP,Staten Island
+Other Ferrous Metal,0.016,0.006,0.113,0.001,0,Metal,Designated MGP,Staten Island
+Mixed Metals,0.012,0.009,0.05,0,0.001,Metal,Designated MGP,Staten Island
+Appliances: Ferrous,0.004,0,0.038,0,0,Metal,Designated MGP,Staten Island
+Appliances: Non-ferrous,0.001,0,0.007,0,0,Metal,Designated MGP,Staten Island
+Yard Waste,0.127,0.153,0,0,0.905,Organic,Organics Suitable for Composting,Staten Island
+Food,0.169,0.211,0.02,0.009,0.046,Organic,Organics Suitable for Composting,Staten Island
+Non-C&D Wood,0.002,0.002,0.001,0.008,0,Organic,Other,Staten Island
+Textiles:  Non-clothing,0.017,0.021,0.002,0,0.002,Organic,Textiles,Staten Island
+Textiles:  Clothing,0.027,0.034,0.002,0,0.001,Organic,Textiles,Staten Island
+Carpet/Upholstery,0.002,0.003,0,0,0.017,Organic,Other,Staten Island
+Disposable Diapers & Sanitary Products,0.033,0.042,0.001,0.001,0,Organic,Other,Staten Island
+Animal By-Products,0.02,0.025,0.001,0,0,Organic,Other,Staten Island
+Shoes/Rubber/Leather,0.007,0.009,0.002,0.001,0,Organic,Textiles,Staten Island
+Garden Hoses,0,0,0,0,0,Organic,Textiles,Staten Island
+Fines,0.025,0.03,0.016,0.001,0.001,Organic,Other,Staten Island
+Miscellaneous Organics,0.009,0.011,0.002,0.001,0,Organic,Other,Staten Island
+Audio/Visual Equipment - TV Peripherals (Covered),0.001,0.001,0,0,0,E-Waste,E-Waste,Staten Island
+Audio/Visual Equipment - Other (Non-covered),0.001,0,0.007,0,0,E-Waste,E-Waste,Staten Island
+Computer Monitors,0,0,0,0,0,E-Waste,E-Waste,Staten Island
+Televisions,0,0,0,0,0,E-Waste,E-Waste,Staten Island
+Other Computer Equipment,0.002,0.002,0.004,0.001,0.001,E-Waste,E-Waste,Staten Island
+Untreated Dimension Lumber/Pallets/Crates,0.009,0.012,0,0,0,C&D,C&D,Staten Island
+Treated/Contaminated/Composite Wood,0.014,0.017,0,0.001,0,C&D,C&D,Staten Island
+Other C&D Debris Not Elsewhere Classified,0.036,0.045,0.002,0.001,0.001,C&D,C&D,Staten Island
+Oil Filters,0,0,0,0,0,Special Waste,HHW,Staten Island
+Antifreeze,0,0,0,0,0,Special Waste,HHW,Staten Island
+Wet-Cell Batteries,0,0,0,0,0,Special Waste,HHW,Staten Island
+Water-Based Adhesives/Glues,0,0,0,0,0,Special Waste,HHW,Staten Island
+Latex Paint,0,0,0,0,0,Special Waste,HHW,Staten Island
+Oil-Based Paint/Solvent,0,0,0,0,0,Special Waste,HHW,Staten Island
+Pesticides/Herbicides/Rodenticides,0.001,0.001,0,0,0,Special Waste,HHW,Staten Island
+Dry-Cell Batteries,0.001,0.001,0,0,0,Special Waste,HHW,Staten Island
+Fluorescent Tubes/CFLs,0,0,0,0,0,Special Waste,HHW,Staten Island
+Mercury-Laden Wastes,0,0,0,0,0,Special Waste,HHW,Staten Island
+Compressed Gas Cylinders/Fire Extinguishers,0,0,0,0,0,Special Waste,HHW,Staten Island
+Home Medical Products,0.001,0.002,0.001,0,0,Special Waste,HHW,Staten Island
+Other HHW,0,0,0.002,0,0,Special Waste,HHW,Staten Island
+Miscellaneous Inorganics,0.005,0.005,0.009,0,0,Miscellaneous Inorganics,Other,Staten Island
+Newspaper,0.013,0.011,0.003,0.054,0,Paper,Designated Paper,Bronx
+Plain OCC/Kraft Paper,0.045,0.011,0.006,0.52,0.002,Paper,Designated Paper,Bronx
+Paper Bags: Kraft Grocery,0.001,0.001,0,0.004,0,Paper,Designated Paper,Bronx
+Paper Bags: Non-food Retail,0.002,0.001,0,0.006,0,Paper,Designated Paper,Bronx
+Paper Bags: Fast Food Bags,0.001,0.002,0,0.001,0,Paper,Designated Paper,Bronx
+Paper Bags: Compostable/Soiled,0.002,0.002,0,0.001,0.002,Paper,Organics Suitable for Composting,Bronx
+High Grade Paper,0.007,0.004,0,0.053,0,Paper,Designated Paper,Bronx
+Mixed Low Grade Paper,0.071,0.061,0.015,0.273,0,Paper,Designated Paper,Bronx
+Compostable/Soiled Paper/Waxed OCC/Kraft,0.068,0.079,0.006,0.012,0.022,Paper,Organics Suitable for Composting,Bronx
+Compostable/School Plates/Trays,0,0,0,0.001,0,Paper,Organics Suitable for Composting,Bronx
+Compostable/School Paper Boats,0,0,0.001,0,0,Paper,Organics Suitable for Composting,Bronx
+Other Non-recyclable Paper,0.008,0.008,0.007,0.006,0.002,Paper,Other,Bronx
+Beverage Cartons & Aseptic Boxes,0.004,0.003,0.015,0.003,0,Paper,Designated MGP,Bronx
+Shredded Paper,0.003,0.002,0.001,0.011,0,Paper,Designated Paper,Bronx
+Drinking Cups - Paper and Plastic: Paper - Compostable,0,0,0,0,0,Paper,Organics Suitable for Composting,Bronx
+Drinking Cups - Paper and Plastic: Paper - Non-Compostable,0.002,0.002,0.001,0.001,0,Paper,Other,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #1 PET All,0,0,0.001,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Rigid,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #6 PS Rigid,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Durable: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Durable: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Durable: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Durable: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Durable: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Durable: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Drinking Cups - Paper and Plastic: Plastic - Durable: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Bronx
+K-Cups: Predominanty Plastic: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Bronx
+K-Cups: Predominanty Plastic: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Bronx
+K-Cups: Predominanty Plastic: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Bronx
+K-Cups: Predominanty Plastic: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+K-Cups: Predominanty Plastic: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+K-Cups: Predominanty Plastic: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+K-Cups: Predominanty Plastic: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+K-Cups: Predominanty Plastic: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+K-Cups: Predominanty Plastic: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Bronx
+K-Cups: Predominanty Plastic: Compostable,0,0,0,0,0,Plastic,Organics Suitable for Composting,Bronx
+K-Cups: Predominanty Plastic: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Bronx
+K-Cups: Predominanty Metal,0,0,0,0,0,Plastic,Designated MGP,Bronx
+K-Cups: Predominanty Organic,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Plastic Bottles: #1 PET - Clear,0.016,0.011,0.07,0.001,0,Plastic,Designated MGP,Bronx
+Plastic Bottles: #1 PET - Green,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Bronx
+Plastic Bottles: #1 PET - Other,0.001,0.001,0.005,0,0,Plastic,Designated MGP,Bronx
+#2 HDPE Natural Bottles,0.006,0.003,0.043,0,0,Plastic,Designated MGP,Bronx
+#2 HDPE Colored Bottles,0.006,0.003,0.038,0,0,Plastic,Designated MGP,Bronx
+Plastic Bottles: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Plastic Bottles: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Plastic Bottles: #5 PP Rigid,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Bronx
+Plastic Bottles: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Plastic Bottles: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Plastic Bottles: #7 Other,0,0,0.002,0,0,Plastic,Designated MGP,Bronx
+Plastic Bottles: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Plastic Bottles: Other & Unlabeled,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Thermoforms: #1 PET All,0.004,0.003,0.017,0.001,0,Plastic,Designated MGP,Bronx
+Thermoforms: #2 HDPE Natural,0,0,0.001,0,0,Plastic,Designated MGP,Bronx
+Thermoforms: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Thermoforms: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Thermoforms: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Thermoforms: #5 PP Rigid,0.002,0.001,0.007,0,0,Plastic,Designated MGP,Bronx
+Thermoforms: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Thermoforms: #6 PS Rigid,0.001,0.001,0.004,0,0,Plastic,Designated MGP,Bronx
+Thermoforms: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Thermoforms: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Thermoforms: Other & Unlabeled,0.001,0.001,0.002,0.001,0,Plastic,Designated MGP,Bronx
+Other PVC (Non-bottle),0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Tubs & Lids: #1 PET All,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Tubs & Lids: #2 HDPE Natural,0,0,0.001,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Tubs & Lids: #2 HDPE Pig.,0.001,0,0.004,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Tubs & Lids: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Tubs & Lids: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Tubs & Lids: #5 PP Rigid,0.004,0.004,0.012,0.001,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Tubs & Lids: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Rigid Plastics: Tubs & Lids: #6 PS Rigid,0.001,0.001,0.002,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Tubs & Lids: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Tubs & Lids: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Tubs & Lids: Other & Unlabeled,0.002,0.001,0.004,0.001,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Rigid Container/Pkg: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Rigid Container/Pkg: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Rigid Container/Pkg: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Rigid Container/Pkg: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Rigid Container/Pkg: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Rigid Plastics: Rigid Container/Pkg: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Rigid Container/Pkg: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Rigid Container/Pkg: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Rigid Container/Pkg: Other & Unlabeled,0.001,0.001,0.001,0,0,Plastic,Designated MGP,Bronx
+Expanded Polystyrene Containers & Packaging (EPS): Clamshells,0.001,0.002,0,0,0,Plastic,Other,Bronx
+Expanded Polystyrene Containers & Packaging (EPS): Single Use Cups,0,0,0,0,0,Plastic,Other,Bronx
+Expanded Polystyrene Containers & Packaging (EPS): Singe Use Other,0.002,0.002,0,0,0,Plastic,Other,Bronx
+Expanded Polystyrene Containers & Packaging (EPS): Food Packaging,0.003,0.004,0.001,0,0.001,Plastic,Other,Bronx
+Expanded Polystyrene Containers & Packaging (EPS): Non-food Packaging,0.001,0.001,0,0.001,0,Plastic,Other,Bronx
+Film: Garbage Bags,0.029,0.03,0.029,0.014,0.008,Plastic,Other,Bronx
+Film: Pouches,0,0,0,0,0,Plastic,Other,Bronx
+Film: Oversize: Other PE Film,0.002,0.002,0,0,0,Plastic,Other,Bronx
+Film: Oversize: Non-PE Film,0.004,0.005,0.001,0.001,0,Plastic,Other,Bronx
+Other Plastic Bags & Film: Grocery/Merch Bags,0.022,0.025,0.006,0.002,0.003,Plastic,Plastic Bags,Bronx
+Other Plastic Bags & Film: Produce Bags,0,0,0,0,0,Plastic,Plastic Bags,Bronx
+Other Plastic Bags & Film: Other Sleeves/Clean Bags,0.001,0.001,0,0.002,0,Plastic,Plastic Bags,Bronx
+Other Plastic Bags & Film: Compostable Bags,0,0,0,0,0.001,Plastic,Other,Bronx
+Other Plastic Bags & Film: Other PE Film,0.008,0.008,0.005,0.002,0.003,Plastic,Other,Bronx
+Other Plastic Bags & Film: Non-PE Film,0.011,0.012,0.004,0.001,0.001,Plastic,Other,Bronx
+Single Use: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Single Use: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Single Use: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Single Use: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Single Use: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Single Use: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Single Use: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Single Use: #6 PS Rigid,0,0,0.001,0,0,Plastic,Designated MGP,Bronx
+Single Use: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Single Use: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Single Use: Other & Unlabeled,0.002,0.002,0.002,0,0,Plastic,Designated MGP,Bronx
+Appliances: Plastic: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Appliances: Plastic: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Appliances: Plastic: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Appliances: Plastic: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Appliances: Plastic: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Appliances: Plastic: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Appliances: Plastic: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Appliances: Plastic: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Appliances: Plastic: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Appliances: Plastic: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Appliances: Plastic: Other & Unlabeled,0.002,0.002,0.003,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Crates/Soda Carrier: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Crates/Soda Carrier: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Crates/Soda Carrier: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Bulk/Rigid Plastics: Crates/Soda Carrier: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Crates/Soda Carrier: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Crates/Soda Carrier: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Crates/Soda Carrier: Other & Unlabeled,0.001,0.001,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Toys/Housewares: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Pig.,0,0,0.002,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Toys/Housewares: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Toys/Housewares: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Bulk/Rigid Plastics: Toys/Housewares: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Toys/Housewares: #7 Other,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Toys/Housewares: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Toys/Housewares: Other & Unlabeled,0.008,0.006,0.038,0.003,0.002,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Other Durable: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Pig.,0.001,0,0.008,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Other Durable: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Other Durable: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Other Durable: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Other Durable: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Bulk/Rigid Plastics: Other Durable: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Other Durable: #7 Other,0,0,0.001,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Other Durable: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Bulk/Rigid Plastics: Other Durable: Other & Unlabeled,0.005,0.005,0.01,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Other Plastics: #1 PET All,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Other Plastics: #2 HDPE Natural,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Other Plastics: #2 HDPE Pig.,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Other Plastics: #3 PVC,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Other Plastics: #4 LDPE/LLDPE,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Other Plastics: #5 PP Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Other Plastics: #5 PP Expanded,0,0,0,0,0,Plastic,Other,Bronx
+Rigid Plastics: Other Plastics: #6 PS Rigid,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Other Plastics: #7 Other,0,0,0.001,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Other Plastics: Compostable,0,0,0,0,0,Plastic,Designated MGP,Bronx
+Rigid Plastics: Other Plastics: Other & Unlabeled,0.012,0.011,0.032,0.001,0.001,Plastic,Designated MGP,Bronx
+Clear Container Glass,0.017,0.01,0.093,0.002,0,Glass,Designated MGP,Bronx
+Green Container Glass,0.004,0.002,0.035,0,0.001,Glass,Designated MGP,Bronx
+Brown Container Glass,0.004,0.003,0.017,0,0,Glass,Designated MGP,Bronx
+Other Color Container Glass,0,0,0.001,0,0,Glass,Designated MGP,Bronx
+Mixed Cullet,0.012,0.004,0.107,0,0,Glass,Designated MGP,Bronx
+Other Glass,0.003,0.003,0.012,0,0,Glass,Other,Bronx
+Aluminum Cans,0.004,0.003,0.008,0,0,Metal,Designated MGP,Bronx
+Aluminum Foil/Containers,0.008,0.008,0.016,0,0,Metal,Designated MGP,Bronx
+Other Aluminium,0,0,0.001,0,0,Metal,Designated MGP,Bronx
+Other Non-ferrous,0.004,0.004,0.014,0,0,Metal,Designated MGP,Bronx
+Steel/Tin Food Cans,0.011,0.007,0.059,0.001,0,Metal,Designated MGP,Bronx
+Empty Aerosol Cans,0.002,0.001,0.008,0,0,Metal,Designated MGP,Bronx
+Other Ferrous Metal,0.008,0.003,0.063,0.001,0,Metal,Designated MGP,Bronx
+Mixed Metals,0.007,0.005,0.027,0,0,Metal,Designated MGP,Bronx
+Appliances: Ferrous,0.002,0.001,0.014,0,0,Metal,Designated MGP,Bronx
+Appliances: Non-ferrous,0,0,0.006,0,0,Metal,Designated MGP,Bronx
+Yard Waste,0.035,0.039,0,0,0.74,Organic,Organics Suitable for Composting,Bronx
+Food,0.227,0.264,0.033,0.007,0.198,Organic,Organics Suitable for Composting,Bronx
+Non-C&D Wood,0.002,0.002,0.004,0.001,0,Organic,Other,Bronx
+Textiles:  Non-clothing,0.03,0.035,0.002,0.003,0.002,Organic,Textiles,Bronx
+Textiles:  Clothing,0.048,0.057,0.002,0.001,0,Organic,Textiles,Bronx
+Carpet/Upholstery,0.016,0.019,0,0,0,Organic,Other,Bronx
+Disposable Diapers & Sanitary Products,0.05,0.059,0.001,0,0.004,Organic,Other,Bronx
+Animal By-Products,0.013,0.015,0,0,0.001,Organic,Other,Bronx
+Shoes/Rubber/Leather,0.009,0.011,0.003,0,0,Organic,Textiles,Bronx
+Garden Hoses,0,0,0,0,0,Organic,Textiles,Bronx
+Fines,0.023,0.026,0.015,0.001,0.001,Organic,Other,Bronx
+Miscellaneous Organics,0.004,0.005,0.001,0,0,Organic,Other,Bronx
+Audio/Visual Equipment - TV Peripherals (Covered),0,0,0,0,0,E-Waste,E-Waste,Bronx
+Audio/Visual Equipment - Other (Non-covered),0.001,0.001,0.004,0,0,E-Waste,E-Waste,Bronx
+Computer Monitors,0.002,0.002,0,0,0,E-Waste,E-Waste,Bronx
+Televisions,0.001,0.001,0,0,0,E-Waste,E-Waste,Bronx
+Other Computer Equipment,0.001,0.001,0.003,0,0,E-Waste,E-Waste,Bronx
+Untreated Dimension Lumber/Pallets/Crates,0,0,0,0,0,C&D,C&D,Bronx
+Treated/Contaminated/Composite Wood,0.026,0.03,0.006,0,0,C&D,C&D,Bronx
+Other C&D Debris Not Elsewhere Classified,0.017,0.019,0.005,0,0,C&D,C&D,Bronx
+Oil Filters,0,0,0,0,0,Special Waste,HHW,Bronx
+Antifreeze,0,0,0,0,0,Special Waste,HHW,Bronx
+Wet-Cell Batteries,0,0,0,0,0,Special Waste,HHW,Bronx
+Water-Based Adhesives/Glues,0,0,0,0,0,Special Waste,HHW,Bronx
+Latex Paint,0.001,0.001,0.001,0,0,Special Waste,HHW,Bronx
+Oil-Based Paint/Solvent,0,0,0,0,0,Special Waste,HHW,Bronx
+Pesticides/Herbicides/Rodenticides,0,0,0,0,0,Special Waste,HHW,Bronx
+Dry-Cell Batteries,0.001,0.001,0.001,0,0,Special Waste,HHW,Bronx
+Fluorescent Tubes/CFLs,0,0,0,0,0,Special Waste,HHW,Bronx
+Mercury-Laden Wastes,0,0,0,0,0,Special Waste,HHW,Bronx
+Compressed Gas Cylinders/Fire Extinguishers,0,0,0,0,0,Special Waste,HHW,Bronx
+Home Medical Products,0.002,0.002,0,0,0,Special Waste,HHW,Bronx
+Other HHW,0.001,0.001,0.003,0,0,Special Waste,HHW,Bronx
+Miscellaneous Inorganics,0.006,0.007,0.008,0,0.001,Miscellaneous Inorganics,Other,Bronx
+Newspaper,0.003,0.002,0.001,0.01,,Paper,Designated Paper,Schools
+Plain OCC/Kraft Paper,0.1,0.018,0.016,0.685,,Paper,Designated Paper,Schools
+Paper Bags: Kraft Grocery,0,0,0,0,,Paper,Designated Paper,Schools
+Paper Bags: Non-food Retail,0,0,0,0.001,,Paper,Designated Paper,Schools
+Paper Bags: Fast Food Bags,0.001,0.001,0,0,,Paper,Designated Paper,Schools
+Paper Bags: Compostable/Soiled,0.001,0.001,0,0.001,,Paper,Organics Suitable for Composting,Schools
+High Grade Paper,0.036,0.036,0.001,0.049,,Paper,Designated Paper,Schools
+Mixed Low Grade Paper,0.069,0.071,0.015,0.064,,Paper,Designated Paper,Schools
+Compostable/Soiled Paper/Waxed OCC/Kraft,0.08,0.088,0.028,0.03,,Paper,Organics Suitable for Composting,Schools
+Compostable/School Plates/Trays,0.122,0.141,0.005,0.019,,Paper,Organics Suitable for Composting,Schools
+Compostable/School Paper Boats,0.001,0.001,0.001,0,,Paper,Organics Suitable for Composting,Schools
+Other Non-recyclable Paper,0.008,0.006,0.003,0.023,,Paper,Other,Schools
+Beverage Cartons & Aseptic Boxes,0.023,0.024,0.105,0.001,,Paper,Designated MGP,Schools
+Shredded Paper,0.003,0.001,0,0.02,,Paper,Designated Paper,Schools
+Drinking Cups - Paper and Plastic: Paper - Compostable,0,0,0,0,,Paper,Organics Suitable for Composting,Schools
+Drinking Cups - Paper and Plastic: Paper - Non-Compostable,0.003,0.003,0.001,0.001,,Paper,Other,Schools
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #1 PET All,0.001,0.001,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Rigid,0.002,0.002,0.002,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #6 PS Rigid,0.003,0.003,0.002,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Other & Unlabeled,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Durable: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Durable: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Durable: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Drinking Cups - Paper and Plastic: Plastic - Durable: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Durable: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Durable: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Drinking Cups - Paper and Plastic: Plastic - Durable: Other & Unlabeled,0,0,0,0,,Plastic,Designated MGP,Schools
+K-Cups: Predominanty Plastic: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Schools
+K-Cups: Predominanty Plastic: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+K-Cups: Predominanty Plastic: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Schools
+K-Cups: Predominanty Plastic: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+K-Cups: Predominanty Plastic: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+K-Cups: Predominanty Plastic: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+K-Cups: Predominanty Plastic: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+K-Cups: Predominanty Plastic: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+K-Cups: Predominanty Plastic: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+K-Cups: Predominanty Plastic: Compostable,0,0,0,0,,Plastic,Organics Suitable for Composting,Schools
+K-Cups: Predominanty Plastic: Other & Unlabeled,0,0,0,0,,Plastic,Designated MGP,Schools
+K-Cups: Predominanty Metal,0,0,0,0,,Plastic,Designated MGP,Schools
+K-Cups: Predominanty Organic,0,0,0,0,,Plastic,Designated MGP,Schools
+Plastic Bottles: #1 PET - Clear,0.011,0.012,0.018,0.003,,Plastic,Designated MGP,Schools
+Plastic Bottles: #1 PET - Green,0,0,0.002,0,,Plastic,Designated MGP,Schools
+Plastic Bottles: #1 PET - Other,0.002,0.003,0.003,0,,Plastic,Designated MGP,Schools
+#2 HDPE Natural Bottles,0.002,0.002,0.009,0,,Plastic,Designated MGP,Schools
+#2 HDPE Colored Bottles,0.001,0.001,0.007,0,,Plastic,Designated MGP,Schools
+Plastic Bottles: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Plastic Bottles: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+Plastic Bottles: #5 PP Rigid,0,0,0.001,0,,Plastic,Designated MGP,Schools
+Plastic Bottles: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Plastic Bottles: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Plastic Bottles: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+Plastic Bottles: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Plastic Bottles: Other & Unlabeled,0,0,0,0,,Plastic,Designated MGP,Schools
+Thermoforms: #1 PET All,0.002,0.002,0.002,0.001,,Plastic,Designated MGP,Schools
+Thermoforms: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+Thermoforms: #2 HDPE Pig.,0.001,0.001,0.001,0,,Plastic,Designated MGP,Schools
+Thermoforms: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Thermoforms: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+Thermoforms: #5 PP Rigid,0.001,0.001,0.002,0,,Plastic,Designated MGP,Schools
+Thermoforms: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Thermoforms: #6 PS Rigid,0.001,0.001,0.001,0,,Plastic,Designated MGP,Schools
+Thermoforms: #7 Other,0,0.001,0,0,,Plastic,Designated MGP,Schools
+Thermoforms: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Thermoforms: Other & Unlabeled,0.001,0.001,0.001,0,,Plastic,Designated MGP,Schools
+Other PVC (Non-bottle),0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Tubs & Lids: #1 PET All,0.001,0.001,0.007,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Tubs & Lids: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Tubs & Lids: #2 HDPE Pig.,0.001,0.001,0.002,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Tubs & Lids: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Tubs & Lids: #4 LDPE/LLDPE,0,0,0.001,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Tubs & Lids: #5 PP Rigid,0.007,0.008,0.01,0.001,,Plastic,Designated MGP,Schools
+Rigid Plastics: Tubs & Lids: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Rigid Plastics: Tubs & Lids: #6 PS Rigid,0.005,0.005,0.006,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Tubs & Lids: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Tubs & Lids: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Tubs & Lids: Other & Unlabeled,0.001,0.001,0.002,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Rigid Container/Pkg: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Rigid Container/Pkg: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Rigid Container/Pkg: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Rigid Container/Pkg: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Rigid Container/Pkg: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Rigid Plastics: Rigid Container/Pkg: #6 PS Rigid,0,0,0.001,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Rigid Container/Pkg: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Rigid Container/Pkg: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Rigid Container/Pkg: Other & Unlabeled,0.001,0.001,0,0,,Plastic,Designated MGP,Schools
+Expanded Polystyrene Containers & Packaging (EPS): Clamshells,0.001,0.001,0,0,,Plastic,Other,Schools
+Expanded Polystyrene Containers & Packaging (EPS): Single Use Cups,0,0,0,0,,Plastic,Other,Schools
+Expanded Polystyrene Containers & Packaging (EPS): Singe Use Other,0.002,0.002,0,0,,Plastic,Other,Schools
+Expanded Polystyrene Containers & Packaging (EPS): Food Packaging,0,0,0,0,,Plastic,Other,Schools
+Expanded Polystyrene Containers & Packaging (EPS): Non-food Packaging,0.001,0.001,0,0.002,,Plastic,Other,Schools
+Film: Garbage Bags,0.047,0.05,0.065,0.023,,Plastic,Other,Schools
+Film: Pouches,0.002,0.002,0.003,0,,Plastic,Other,Schools
+Film: Oversize: Other PE Film,0.001,0.001,0.002,0,,Plastic,Other,Schools
+Film: Oversize: Non-PE Film,0.001,0.001,0.006,0,,Plastic,Other,Schools
+Other Plastic Bags & Film: Grocery/Merch Bags,0.005,0.006,0.002,0.001,,Plastic,Plastic Bags,Schools
+Other Plastic Bags & Film: Produce Bags,0,0,0,0,,Plastic,Plastic Bags,Schools
+Other Plastic Bags & Film: Other Sleeves/Clean Bags,0.001,0.001,0,0.001,,Plastic,Plastic Bags,Schools
+Other Plastic Bags & Film: Compostable Bags,0,0,0,0,,Plastic,Other,Schools
+Other Plastic Bags & Film: Other PE Film,0.009,0.01,0.007,0.002,,Plastic,Other,Schools
+Other Plastic Bags & Film: Non-PE Film,0.013,0.015,0.008,0.002,,Plastic,Other,Schools
+Single Use: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Schools
+Single Use: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+Single Use: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Schools
+Single Use: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Single Use: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+Single Use: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Single Use: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Single Use: #6 PS Rigid,0.001,0.001,0.001,0,,Plastic,Designated MGP,Schools
+Single Use: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+Single Use: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Single Use: Other & Unlabeled,0.006,0.007,0.006,0.001,,Plastic,Designated MGP,Schools
+Appliances: Plastic: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Schools
+Appliances: Plastic: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+Appliances: Plastic: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Schools
+Appliances: Plastic: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Appliances: Plastic: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+Appliances: Plastic: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Appliances: Plastic: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Appliances: Plastic: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Appliances: Plastic: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+Appliances: Plastic: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Appliances: Plastic: Other & Unlabeled,0,0,0.007,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Crates/Soda Carrier: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Pig.,0,0,0.001,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Crates/Soda Carrier: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Crates/Soda Carrier: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Bulk/Rigid Plastics: Crates/Soda Carrier: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Crates/Soda Carrier: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Crates/Soda Carrier: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Crates/Soda Carrier: Other & Unlabeled,0,0,0.001,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Toys/Housewares: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Toys/Housewares: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Toys/Housewares: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Bulk/Rigid Plastics: Toys/Housewares: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Toys/Housewares: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Toys/Housewares: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Toys/Housewares: Other & Unlabeled,0.002,0.001,0.017,0.007,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Other Durable: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Pig.,0,0,0.003,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Other Durable: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Other Durable: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Other Durable: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Other Durable: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Bulk/Rigid Plastics: Other Durable: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Other Durable: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Other Durable: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Bulk/Rigid Plastics: Other Durable: Other & Unlabeled,0.001,0.001,0.007,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Other Plastics: #1 PET All,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Other Plastics: #2 HDPE Natural,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Other Plastics: #2 HDPE Pig.,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Other Plastics: #3 PVC,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Other Plastics: #4 LDPE/LLDPE,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Other Plastics: #5 PP Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Other Plastics: #5 PP Expanded,0,0,0,0,,Plastic,Other,Schools
+Rigid Plastics: Other Plastics: #6 PS Rigid,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Other Plastics: #7 Other,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Other Plastics: Compostable,0,0,0,0,,Plastic,Designated MGP,Schools
+Rigid Plastics: Other Plastics: Other & Unlabeled,0.005,0.005,0.008,0.002,,Plastic,Designated MGP,Schools
+Clear Container Glass,0.006,0.007,0.013,0.002,,Glass,Designated MGP,Schools
+Green Container Glass,0.001,0.001,0.001,0,,Glass,Designated MGP,Schools
+Brown Container Glass,0,0,0.001,0,,Glass,Designated MGP,Schools
+Other Color Container Glass,0,0,0,0,,Glass,Designated MGP,Schools
+Mixed Cullet,0,0,0.001,0,,Glass,Designated MGP,Schools
+Other Glass,0,0,0,0,,Glass,Other,Schools
+Aluminum Cans,0.002,0.002,0.001,0,,Metal,Designated MGP,Schools
+Aluminum Foil/Containers,0.009,0.01,0.018,0.001,,Metal,Designated MGP,Schools
+Other Aluminium,0.003,0.004,0,0,,Metal,Designated MGP,Schools
+Other Non-ferrous,0.001,0.001,0.002,0.002,,Metal,Designated MGP,Schools
+Steel/Tin Food Cans,0.014,0.011,0.175,0,,Metal,Designated MGP,Schools
+Empty Aerosol Cans,0,0,0,0,,Metal,Designated MGP,Schools
+Other Ferrous Metal,0.012,0.011,0.062,0.005,,Metal,Designated MGP,Schools
+Mixed Metals,0.002,0.001,0.051,0.001,,Metal,Designated MGP,Schools
+Appliances: Ferrous,0.001,0,0.029,0,,Metal,Designated MGP,Schools
+Appliances: Non-ferrous,0,0.001,0,0,,Metal,Designated MGP,Schools
+Yard Waste,0.019,0.022,0,0,,Organic,Organics Suitable for Composting,Schools
+Food,0.291,0.332,0.197,0.029,,Organic,Organics Suitable for Composting,Schools
+Non-C&D Wood,0.001,0.001,0,0.002,,Organic,Other,Schools
+Textiles:  Non-clothing,0.004,0.005,0.005,0.001,,Organic,Textiles,Schools
+Textiles:  Clothing,0.002,0.002,0,0,,Organic,Textiles,Schools
+Carpet/Upholstery,0.001,0.001,0,0,,Organic,Other,Schools
+Disposable Diapers & Sanitary Products,0.006,0.007,0,0,,Organic,Other,Schools
+Animal By-Products,0,0,0,0,,Organic,Other,Schools
+Shoes/Rubber/Leather,0.002,0.002,0.001,0,,Organic,Textiles,Schools
+Garden Hoses,0,0,0,0,,Organic,Textiles,Schools
+Fines,0.019,0.022,0.005,0.003,,Organic,Other,Schools
+Miscellaneous Organics,0.002,0.002,0.002,0,,Organic,Other,Schools
+Audio/Visual Equipment - TV Peripherals (Covered),0,0,0,0,,E-Waste,E-Waste,Schools
+Audio/Visual Equipment - Other (Non-covered),0,0,0,0,,E-Waste,E-Waste,Schools
+Computer Monitors,0,0,0,0,,E-Waste,E-Waste,Schools
+Televisions,0,0,0,0,,E-Waste,E-Waste,Schools
+Other Computer Equipment,0,0,0.006,0,,E-Waste,E-Waste,Schools
+Untreated Dimension Lumber/Pallets/Crates,0.001,0.001,0,0,,C&D,C&D,Schools
+Treated/Contaminated/Composite Wood,0.003,0.003,0.006,0,,C&D,C&D,Schools
+Other C&D Debris Not Elsewhere Classified,0.001,0.001,0.007,0.002,,C&D,C&D,Schools
+Oil Filters,0,0,0,0,,Special Waste,HHW,Schools
+Antifreeze,0,0,0,0,,Special Waste,HHW,Schools
+Wet-Cell Batteries,0,0,0,0,,Special Waste,HHW,Schools
+Water-Based Adhesives/Glues,0,0,0,0,,Special Waste,HHW,Schools
+Latex Paint,0,0,0,0,,Special Waste,HHW,Schools
+Oil-Based Paint/Solvent,0,0,0,0,,Special Waste,HHW,Schools
+Pesticides/Herbicides/Rodenticides,0,0,0,0,,Special Waste,HHW,Schools
+Dry-Cell Batteries,0,0,0,0,,Special Waste,HHW,Schools
+Fluorescent Tubes/CFLs,0,0,0,0,,Special Waste,HHW,Schools
+Mercury-Laden Wastes,0,0,0,0,,Special Waste,HHW,Schools
+Compressed Gas Cylinders/Fire Extinguishers,0,0,0,0,,Special Waste,HHW,Schools
+Home Medical Products,0,0,0,0,,Special Waste,HHW,Schools
+Other HHW,0,0,0,0,,Special Waste,HHW,Schools
+Miscellaneous Inorganics,0.002,0.002,0.011,0.001,,Miscellaneous Inorganics,Other,Schools
+Newspaper,0.024,0.024,,,,Paper,Designated Paper,NYCHA
+Plain OCC/Kraft Paper,0.018,0.018,,,,Paper,Designated Paper,NYCHA
+Paper Bags: Kraft Grocery,0.001,0.001,,,,Paper,Designated Paper,NYCHA
+Paper Bags: Non-food Retail,0.001,0.001,,,,Paper,Designated Paper,NYCHA
+Paper Bags: Fast Food Bags,0.002,0.002,,,,Paper,Designated Paper,NYCHA
+Paper Bags: Compostable/Soiled,0.002,0.002,,,,Paper,Organics Suitable for Composting,NYCHA
+High Grade Paper,0.009,0.009,,,,Paper,Designated Paper,NYCHA
+Mixed Low Grade Paper,0.087,0.087,,,,Paper,Designated Paper,NYCHA
+Compostable/Soiled Paper/Waxed OCC/Kraft,0.068,0.068,,,,Paper,Organics Suitable for Composting,NYCHA
+Compostable/School Plates/Trays,0,0,,,,Paper,Organics Suitable for Composting,NYCHA
+Compostable/School Paper Boats,0,0,,,,Paper,Organics Suitable for Composting,NYCHA
+Other Non-recyclable Paper,0.016,0.016,,,,Paper,Other,NYCHA
+Beverage Cartons & Aseptic Boxes,0.005,0.005,,,,Paper,Designated MGP,NYCHA
+Shredded Paper,0.002,0.002,,,,Paper,Designated Paper,NYCHA
+Drinking Cups - Paper and Plastic: Paper - Compostable,0,0,,,,Paper,Organics Suitable for Composting,NYCHA
+Drinking Cups - Paper and Plastic: Paper - Non-Compostable,0.002,0.002,,,,Paper,Other,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #1 PET All,0.001,0.001,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Rigid,0.001,0.001,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #6 PS Rigid,0.001,0.001,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Single Use: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Single Use: Other & Unlabeled,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Durable: #1 PET All,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Durable: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Durable: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Durable: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Durable: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Durable: #6 PS Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Durable: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Durable: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Drinking Cups - Paper and Plastic: Plastic - Durable: Other & Unlabeled,0,0,,,,Plastic,Designated MGP,NYCHA
+K-Cups: Predominanty Plastic: #1 PET All,0,0,,,,Plastic,Designated MGP,NYCHA
+K-Cups: Predominanty Plastic: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+K-Cups: Predominanty Plastic: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+K-Cups: Predominanty Plastic: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+K-Cups: Predominanty Plastic: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+K-Cups: Predominanty Plastic: #5 PP Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+K-Cups: Predominanty Plastic: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+K-Cups: Predominanty Plastic: #6 PS Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+K-Cups: Predominanty Plastic: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+K-Cups: Predominanty Plastic: Compostable,0,0,,,,Plastic,Organics Suitable for Composting,NYCHA
+K-Cups: Predominanty Plastic: Other & Unlabeled,0,0,,,,Plastic,Designated MGP,NYCHA
+K-Cups: Predominanty Metal,0,0,,,,Plastic,Designated MGP,NYCHA
+K-Cups: Predominanty Organic,0,0,,,,Plastic,Designated MGP,NYCHA
+Plastic Bottles: #1 PET - Clear,0.02,0.02,,,,Plastic,Designated MGP,NYCHA
+Plastic Bottles: #1 PET - Green,0.002,0.002,,,,Plastic,Designated MGP,NYCHA
+Plastic Bottles: #1 PET - Other,0.002,0.002,,,,Plastic,Designated MGP,NYCHA
+#2 HDPE Natural Bottles,0.007,0.007,,,,Plastic,Designated MGP,NYCHA
+#2 HDPE Colored Bottles,0.007,0.007,,,,Plastic,Designated MGP,NYCHA
+Plastic Bottles: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Plastic Bottles: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Plastic Bottles: #5 PP Rigid,0.001,0.001,,,,Plastic,Designated MGP,NYCHA
+Plastic Bottles: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Plastic Bottles: #6 PS Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Plastic Bottles: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Plastic Bottles: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Plastic Bottles: Other & Unlabeled,0,0,,,,Plastic,Designated MGP,NYCHA
+Thermoforms: #1 PET All,0.003,0.003,,,,Plastic,Designated MGP,NYCHA
+Thermoforms: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+Thermoforms: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+Thermoforms: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Thermoforms: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Thermoforms: #5 PP Rigid,0.001,0.001,,,,Plastic,Designated MGP,NYCHA
+Thermoforms: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Thermoforms: #6 PS Rigid,0.001,0.001,,,,Plastic,Designated MGP,NYCHA
+Thermoforms: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Thermoforms: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Thermoforms: Other & Unlabeled,0.001,0.001,,,,Plastic,Designated MGP,NYCHA
+Other PVC (Non-bottle),0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Tubs & Lids: #1 PET All,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Tubs & Lids: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Tubs & Lids: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Tubs & Lids: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Tubs & Lids: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Tubs & Lids: #5 PP Rigid,0.003,0.003,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Tubs & Lids: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Rigid Plastics: Tubs & Lids: #6 PS Rigid,0.001,0.001,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Tubs & Lids: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Tubs & Lids: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Tubs & Lids: Other & Unlabeled,0.002,0.002,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Rigid Container/Pkg: #1 PET All,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Rigid Container/Pkg: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Rigid Container/Pkg: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Rigid Container/Pkg: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Rigid Container/Pkg: #5 PP Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Rigid Container/Pkg: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Rigid Plastics: Rigid Container/Pkg: #6 PS Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Rigid Container/Pkg: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Rigid Container/Pkg: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Rigid Container/Pkg: Other & Unlabeled,0.001,0.001,,,,Plastic,Designated MGP,NYCHA
+Expanded Polystyrene Containers & Packaging (EPS): Clamshells,0.002,0.002,,,,Plastic,Other,NYCHA
+Expanded Polystyrene Containers & Packaging (EPS): Single Use Cups,0,0,,,,Plastic,Other,NYCHA
+Expanded Polystyrene Containers & Packaging (EPS): Singe Use Other,0.002,0.002,,,,Plastic,Other,NYCHA
+Expanded Polystyrene Containers & Packaging (EPS): Food Packaging,0.004,0.004,,,,Plastic,Other,NYCHA
+Expanded Polystyrene Containers & Packaging (EPS): Non-food Packaging,0,0,,,,Plastic,Other,NYCHA
+Film: Garbage Bags,0.023,0.023,,,,Plastic,Other,NYCHA
+Film: Pouches,0,0,,,,Plastic,Other,NYCHA
+Film: Oversize: Other PE Film,0.004,0.004,,,,Plastic,Other,NYCHA
+Film: Oversize: Non-PE Film,0.002,0.002,,,,Plastic,Other,NYCHA
+Other Plastic Bags & Film: Grocery/Merch Bags,0.026,0.026,,,,Plastic,Plastic Bags,NYCHA
+Other Plastic Bags & Film: Produce Bags,0,0,,,,Plastic,Plastic Bags,NYCHA
+Other Plastic Bags & Film: Other Sleeves/Clean Bags,0.001,0.001,,,,Plastic,Plastic Bags,NYCHA
+Other Plastic Bags & Film: Compostable Bags,0,0,,,,Plastic,Other,NYCHA
+Other Plastic Bags & Film: Other PE Film,0.009,0.009,,,,Plastic,Other,NYCHA
+Other Plastic Bags & Film: Non-PE Film,0.01,0.01,,,,Plastic,Other,NYCHA
+Single Use: #1 PET All,0,0,,,,Plastic,Designated MGP,NYCHA
+Single Use: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+Single Use: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+Single Use: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Single Use: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Single Use: #5 PP Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Single Use: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Single Use: #6 PS Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Single Use: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Single Use: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Single Use: Other & Unlabeled,0.002,0.002,,,,Plastic,Designated MGP,NYCHA
+Appliances: Plastic: #1 PET All,0,0,,,,Plastic,Designated MGP,NYCHA
+Appliances: Plastic: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+Appliances: Plastic: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+Appliances: Plastic: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Appliances: Plastic: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Appliances: Plastic: #5 PP Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Appliances: Plastic: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Appliances: Plastic: #6 PS Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Appliances: Plastic: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Appliances: Plastic: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Appliances: Plastic: Other & Unlabeled,0.003,0.003,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Crates/Soda Carrier: #1 PET All,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Crates/Soda Carrier: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Crates/Soda Carrier: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Crates/Soda Carrier: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Crates/Soda Carrier: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Bulk/Rigid Plastics: Crates/Soda Carrier: #6 PS Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Crates/Soda Carrier: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Crates/Soda Carrier: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Crates/Soda Carrier: Other & Unlabeled,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Toys/Housewares: #1 PET All,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Toys/Housewares: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Toys/Housewares: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Toys/Housewares: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Toys/Housewares: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Bulk/Rigid Plastics: Toys/Housewares: #6 PS Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Toys/Housewares: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Toys/Housewares: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Toys/Housewares: Other & Unlabeled,0.004,0.004,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Other Durable: #1 PET All,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Other Durable: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Other Durable: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Other Durable: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Other Durable: #5 PP Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Other Durable: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Bulk/Rigid Plastics: Other Durable: #6 PS Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Other Durable: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Other Durable: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Bulk/Rigid Plastics: Other Durable: Other & Unlabeled,0.002,0.002,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Other Plastics: #1 PET All,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Other Plastics: #2 HDPE Natural,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Other Plastics: #2 HDPE Pig.,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Other Plastics: #3 PVC,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Other Plastics: #4 LDPE/LLDPE,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Other Plastics: #5 PP Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Other Plastics: #5 PP Expanded,0,0,,,,Plastic,Other,NYCHA
+Rigid Plastics: Other Plastics: #6 PS Rigid,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Other Plastics: #7 Other,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Other Plastics: Compostable,0,0,,,,Plastic,Designated MGP,NYCHA
+Rigid Plastics: Other Plastics: Other & Unlabeled,0.016,0.016,,,,Plastic,Designated MGP,NYCHA
+Clear Container Glass,0.027,0.027,,,,Glass,Designated MGP,NYCHA
+Green Container Glass,0.004,0.004,,,,Glass,Designated MGP,NYCHA
+Brown Container Glass,0.004,0.004,,,,Glass,Designated MGP,NYCHA
+Other Color Container Glass,0.001,0.001,,,,Glass,Designated MGP,NYCHA
+Mixed Cullet,0.005,0.005,,,,Glass,Designated MGP,NYCHA
+Other Glass,0.004,0.004,,,,Glass,Other,NYCHA
+Aluminum Cans,0.006,0.006,,,,Metal,Designated MGP,NYCHA
+Aluminum Foil/Containers,0.008,0.008,,,,Metal,Designated MGP,NYCHA
+Other Aluminium,0.001,0.001,,,,Metal,Designated MGP,NYCHA
+Other Non-ferrous,0.004,0.004,,,,Metal,Designated MGP,NYCHA
+Steel/Tin Food Cans,0.013,0.013,,,,Metal,Designated MGP,NYCHA
+Empty Aerosol Cans,0.002,0.002,,,,Metal,Designated MGP,NYCHA
+Other Ferrous Metal,0.008,0.008,,,,Metal,Designated MGP,NYCHA
+Mixed Metals,0.006,0.006,,,,Metal,Designated MGP,NYCHA
+Appliances: Ferrous,0.007,0.007,,,,Metal,Designated MGP,NYCHA
+Appliances: Non-ferrous,0.005,0.005,,,,Metal,Designated MGP,NYCHA
+Yard Waste,0.024,0.024,,,,Organic,Organics Suitable for Composting,NYCHA
+Food,0.226,0.226,,,,Organic,Organics Suitable for Composting,NYCHA
+Non-C&D Wood,0.005,0.005,,,,Organic,Other,NYCHA
+Textiles:  Non-clothing,0.027,0.027,,,,Organic,Textiles,NYCHA
+Textiles:  Clothing,0.039,0.039,,,,Organic,Textiles,NYCHA
+Carpet/Upholstery,0.002,0.002,,,,Organic,Other,NYCHA
+Disposable Diapers & Sanitary Products,0.07,0.07,,,,Organic,Other,NYCHA
+Animal By-Products,0.013,0.013,,,,Organic,Other,NYCHA
+Shoes/Rubber/Leather,0.011,0.011,,,,Organic,Textiles,NYCHA
+Garden Hoses,0,0,,,,Organic,Textiles,NYCHA
+Fines,0.035,0.035,,,,Organic,Other,NYCHA
+Miscellaneous Organics,0.005,0.005,,,,Organic,Other,NYCHA
+Audio/Visual Equipment - TV Peripherals (Covered),0,0,,,,E-Waste,E-Waste,NYCHA
+Audio/Visual Equipment - Other (Non-covered),0.002,0.002,,,,E-Waste,E-Waste,NYCHA
+Computer Monitors,0.003,0.003,,,,E-Waste,E-Waste,NYCHA
+Televisions,0,0,,,,E-Waste,E-Waste,NYCHA
+Other Computer Equipment,0.002,0.002,,,,E-Waste,E-Waste,NYCHA
+Untreated Dimension Lumber/Pallets/Crates,0.001,0.001,,,,C&D,C&D,NYCHA
+Treated/Contaminated/Composite Wood,0.01,0.01,,,,C&D,C&D,NYCHA
+Other C&D Debris Not Elsewhere Classified,0.009,0.009,,,,C&D,C&D,NYCHA
+Oil Filters,0,0,,,,Special Waste,HHW,NYCHA
+Antifreeze,0,0,,,,Special Waste,HHW,NYCHA
+Wet-Cell Batteries,0,0,,,,Special Waste,HHW,NYCHA
+Water-Based Adhesives/Glues,0,0,,,,Special Waste,HHW,NYCHA
+Latex Paint,0,0,,,,Special Waste,HHW,NYCHA
+Oil-Based Paint/Solvent,0,0,,,,Special Waste,HHW,NYCHA
+Pesticides/Herbicides/Rodenticides,0,0,,,,Special Waste,HHW,NYCHA
+Dry-Cell Batteries,0.001,0.001,,,,Special Waste,HHW,NYCHA
+Fluorescent Tubes/CFLs,0,0,,,,Special Waste,HHW,NYCHA
+Mercury-Laden Wastes,0,0,,,,Special Waste,HHW,NYCHA
+Compressed Gas Cylinders/Fire Extinguishers,0,0,,,,Special Waste,HHW,NYCHA
+Home Medical Products,0.003,0.003,,,,Special Waste,HHW,NYCHA
+Other HHW,0.001,0.001,,,,Special Waste,HHW,NYCHA
+Miscellaneous Inorganics,0.004,0.004,,,,Miscellaneous Inorganics,Other,NYCHA
