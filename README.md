@@ -4,7 +4,7 @@
 
 <p>We found that both total and per capita trash production tended to decrease between 1992 and 2018. Recycling of paper decreased slightly and recycling of metal, glass and plastic increased slightly.</p>
 
-<p>Below, we show a total overall decrease in trash production in the five boroughs of NYC in the years 1992-2018. Trash production increased slightly between 2000 and 2004, before exhibiting a consistent downward trend.</p>
+<p>Below, we show a total overall decrease in trash production in the five boroughs of NYC in the years 1992-2018. Trash production increased slightly between 2000 and 2003, before exhibiting a consistent downward trend.</p>
 
 <img src="Analysis_Images/NYC Total Refuse Production.png">  
 
@@ -45,7 +45,7 @@
 
 <p>When looking at the combined NYC dataset for both refuse and population, we were able to delineate a number of observations derived by looking at each of the five NYC Boroughs. Applying linear regression lines allowed us to examine our data at a more meaningful level. This allows us to see inferences over time when looking at individual boroughs.</p>
 
-<p>During the observed years of 1992-2018, we can demonstrate that the per capita refuse declined in all five boroughs. Analysis of outliers does show some irregularities compared to the regression. Even though overall refuse has decreased we can observe that there was an increase in per capita refuse in all five boroughs during the years 2000 through 2004. These spikes in deviation do not negate our findings that there was an overall decrease throughout the time period examined.</p>
+<p>During the observed years of 1992-2018, we can demonstrate that the per capita refuse declined in all five boroughs. Analysis of outliers does show some irregularities compared to the regression. Even though overall refuse has decreased we can observe that there was an increase in per capita refuse in all five boroughs during the years 2000 through 2003. These spikes in deviation do not negate our findings that there was an overall decrease throughout the time period examined.</p>
 
 <p>When looking at the graph of the five boroughs in relation to per capita refuse we can see that there is a strong correlation between the data points and our regression line, or the best fit line. This is also suggested by the r values computed for each borough, with the slight exception of Staten island.</p>
 
