@@ -61,7 +61,7 @@
 
 <h2>Going Further</h2>
 
-There is a plethora of data that one could obtain for further analysis, as well as additional observations. 
+Our data suggest the need for further exploration of the reasons for the negative trend in refuse production in New York City. Can a similar trend be found nationally and, if not, where can such a trend be found? Can variation in refuse production between community districts and boroughs be accounted for by randomness, or is there an underlying cause?
 
 Does income play a role in the amount of trash a person generates?
 
