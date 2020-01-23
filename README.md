@@ -4,7 +4,7 @@
 
 <p>We found that both total and per capita trash production tended to decrease between 1992 and 2018. Recycling of paper decreased slightly and recycling of metal, glass and plastic increased slightly.</p>
 
-<p>Below, we show a total overall decrease in trash production in the five boroughs of NYC in the years 1992-2018. Trash production increased slightly between 2000 and 2003, before exhibiting a consistent downward trend.</p>
+<p>Below, we show a total overall decrease in trash production in the five boroughs of NYC in the years 1992-2018. Trash production increased slightly between 2000 and 2003, before exhibiting a consistent downward trend. See <a href=https://github.com/JacobSpear/NewYorkWaste/blob/master/Analysis_Notebooks/Whole_PerCapita_Trash.ipynb> our notebook </a> for the code that produces the graph below.</p>
 
 <img src="Analysis_Images/NYC Total Refuse Production.png">  
 
@@ -17,11 +17,11 @@
 <img src="Analysis_Images/NYC Per Capita Refuse Production.png">
 <img src="Analysis_Images/BoroughCapitaRegressions.png">
 
-<p>Refuse production also decreased in most community districts, being approximately normally distributed with mean at about -3 kilograms per person per year.</p>
+<p>Refuse production also decreased in most community districts, being approximately normally distributed with mean at about -3 kilograms per person per year.  For more details on our methodology, see <a href=https://github.com/JacobSpear/NewYorkWaste/blob/master/Analysis_Notebooks/CD_PerCapita_Trash.ipynb> our notebook</a>.</p>
 
 <img src="Analysis_Images/Rate_Of_Change_Histogram.png">
 
-<p>This community district-level decrease in refuse production can also be seen as the distribution of refuse production shifts left between 1992 and 2008, as shown in the histograms below (bin size is half a standard deviation).</p>
+<p>This community district-level decrease in refuse production can also be seen as the distribution of refuse production shifts left between 1992 and 2008, as shown in the histograms below (bin size is half a standard deviation). </p>
 
 <img src="Analysis_Images/CD_PerCapita_Histogram_1992.png"> <img src="Analysis_Images/CD_PerCapita_Histogram_2000.png">
 
@@ -53,13 +53,13 @@
 
 <p>As it was not feasible to display similar graphs and regression lines for all 59 community districts, we represent the slopes of the regression lines for per-capita refuse production in each community district over time as a histogram (see above).  We also generate histograms showing the distribution of trash output of four years (see above). Note that in the year 2000, the spread of this data appears to be smaller. This prompts the question: “How did the variability of per-capita trash production change over time?”  In order to answer this question, we use the coefficient of variation, the ratio of the mean and standard deviation.  Put another way, the coefficient of variation expresses the standard deviation in terms of the mean. For example, a coefficient of variation of 0.12 means that one standard deviation is equivalent to 0.12 times the mean.</p>
 
-<p>To see why the coefficient of variation is an appropriate measure of spread in this context, consider the following analogy: in a room of billionaires, the standard deviation of wealth would be in the billions. In a room full of individuals with net worth in the ten thousands, the standard deviation of wealth would likely be in the ten thousands. It would not be reasonable to suggest that the net worth of billionaire’s is 100,000 times greater than that of middle class individuals. Rather, in this context and in the context of our analysis, a more meaningful measurement is the ratio of the standard deviation to the mean.</p>
+<p>To see why the coefficient of variation is an appropriate measure of spread in this context, consider the following analogy: in a room of billionaires, the standard deviation of wealth would be in the billions. In a room full of individuals with net worth in the ten thousands, the standard deviation of wealth would likely be in the ten thousands. It would not be reasonable to suggest that the net worth of billionaire’s is 100,000 times greater than that of middle class individuals. Rather, in this context and in the context of our analysis, a more meaningful measurement is the ratio of the standard deviation to the mean.  For further details, see <a href=https://github.com/JacobSpear/NewYorkWaste/blob/master/Analysis_Notebooks/CD_PerCapita_Trash.ipynb> our notebook</a>. </p>
 
-<p>In order to determine whether community district refuse production became more or less varied over time, we computed the coefficient of variation of per-capita refuse production over the 59 community districts in each year 1992 to 2018, as displayed below. We see that between 1993 and 2000, variability between community districts was lower relative to mean trash output compared to other years.</p>
+<p>In order to determine whether community district refuse production became more or less varied over time, we computed the coefficient of variation of per-capita refuse production over the 59 community districts in each year 1992 to 2018, as displayed below. We see that between 1993 and 2000, variability between community districts was lower relative to mean trash output compared to other years. </p>
 
 <img src="Analysis_Images/Coefficient_Variation.png">
 
-<p>We used recycling of paper and metal, glass, plastic information for the years 2005-2019, as this was the most complete set of information for all five NYC boroughs and was comprised of 10,620 observations for paper recycling and 10,620 observations for metal, glass, and plastic recycling.  The proportion of waste comprised of refuse, paper, and metal, glass, plastic respectively changed only slightly over the decade for which data were available.</p>
+<p>We used recycling of paper and metal, glass, plastic information for the years 2005-2019, as this was the most complete set of information for all five NYC boroughs and was comprised of 10,620 observations for paper recycling and 10,620 observations for metal, glass, and plastic recycling.  The proportion of waste comprised of refuse, paper, and metal, glass, plastic respectively changed only slightly over the decade for which data were available.  For further details, see <a href=https://github.com/JacobSpear/NewYorkWaste/blob/master/Analysis_Notebooks/Recycling%20Analysis.ipynb> our notebook</a>.  </p>
 
 <img src="Analysis_Images/NYC Ratio of Refuse, Paper, and MGP.png">
 
