@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Community District Waste Comparison</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="style.css" Type="text/css" media="all">
+</head>
+
+<body>
+
+<!-- Navbar Section -->
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="index.html">New York City Waste</a>
+    </div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Plots <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="refuse_total.html">Total Refuse</a></li>
+          <li><a href="refuse_pc_total.html">Per Capita Refuse</a></li>
+          <li><a href="refuse_pc_borough.html">Per Capita Refuse by Borough </a></li>
+          <li><a href="recycling.html">Recycling </a></li>
+        </ul>
+      </li>
+      <li><a href="comparison.html">Comparison</a></li>
+      <li><a href="data.html">Data</a></li>
+    </ul>
+  </div>
+</nav>
+<!-- End Navbar Section -->
+
+<!-- Content Section -->
+<div class="container-fluid">
+  <h2 class="description-header">Community District Distribution of Waste Reduction</h2>
+  <hr>
+  <div class="row">
+    <div class="col 2 col-sm-12 col-md-6"> 
+      <a> <img class="viz-imagecomp" src="Visualizations/CD_PerCapita_Histogram_1992.png"></a>
+    </div>
+    <div class="col 2 col-sm-12 col-md-6"> 
+      <a><img class="viz-imagecomp" src="Visualizations/CD_PerCapita_Histogram_2000.png"></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col 2 col-sm-12 col-md-6"> 
+      <a><img class="viz-imagecomp" src="Visualizations/CD_PerCapita_Histogram_2010.png"></a>
+    </div>
+    <div class="col 2 col-sm-12 col-md-6"> 
+      <a><img class="viz-imagecomp" src="Visualizations/CD_PerCapita_Histogram_2018.png"></a>
+    </div>
+  </div>
+  <div class="row">
+    <p class="description-content"> As it was not feasible to display similar graphs and regression lines for all 59 community districts, 
+      we represent the slopes of the regression lines for per-capita refuse production in each community district over time as histograms (see above). 
+      We generated histograms showing the distribution of trash output of four years. The community level decrease in refuse production over time is evidenced
+      as the distribution of refuse production shifts left between 1992 and 2008 in the histograms above. Approximately 17% of community districts decreased their 
+      refuse production at least 50% faster than the mean rate of decrease. These findings suggest the need for further studies examining whether the variation in rates of refuse 
+      production decrease between community districts is due to random variation or due to sociopolitical, environmental, or other pressures.</p>
+  </div>
+</div>
+<!-- End Content Section -->
+
+<!-- Start Footer Section -->
+<footer>
+  <p class = "footer"> Copyright tlatinska 2020</p>
+</footer>
+<!-- End Footer Section -->
+
+</body>
+</html>

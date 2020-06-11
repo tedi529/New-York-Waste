@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>New York City Waste</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="style.css" Type="text/css" media="all">
+</head>
+
+<body>
+
+<!-- Navbar Section -->
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="index.html">New York City Waste</a>
+    </div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Plots <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="refuse_total.html">Total Refuse</a></li>
+          <li><a href="refuse_pc_total.html">Per Capita Refuse</a></li>
+          <li><a href="refuse_pc_borough.html">Per Capita Refuse by Borough </a></li>
+          <li><a href="recycling.html">Recycling </a></li>
+        </ul>
+      </li>
+      <li><a href="comparison.html">Comparison</a></li>
+      <li><a href="data.html">Data</a></li>
+    </ul>
+  </div>
+</nav>
+<!-- End Navbar Section -->
+
+<!-- Content Section -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6 col-md-12">
+      <div class="row">
+        <h1 class="description-header">New York City Waste Analysis</h1>
+        <hr> 
+        <p> <img class="description-image" src="Visualizations/NYC Total Refuse, Paper and MGP.png"></p>
+        <p class="description-content"> In this analysis, we examined trends in population, total and per capita refuse, and recycling to determine the state of waste production in
+          NYC for the years 1992-2019. We sourced <a href=https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5> refuse</a>, 
+          <a href=https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5> recycling</a>, and 
+          <a href=https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Community-Districts/xi7c-iiu2> population</a> 
+          data from the NYC Open Data portal and census population data for <a href=https://www.census.gov/data/tables/time-series/demo/popest/intercensal-1990-2000-state-and-county-totals.html> 1990-2000</a>, 
+          <a href=https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2000-2010-counties.html> 2000-2010</a>, 
+          and <a href=https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html> 2010-2018</a>. 
+          Variables considered include tons of trash (refuse), paper, and metal, glass and plastic recycling
+          collected from NYC residences and institutions serviced by the NYC Department of Sanitation. We did not include any 
+          organics refuse information as it was severely incomplete in the NYC archives. We found that both total and per capita trash exhibited an overall decrease between 1992 and 2018. 
+          Recycling of paper decreased slightly and recycling of metal, glass and plastic increased slightly between 2005 and 2019 as a percentage of total waste produced. 
+        </p>
+      </div>  
+    </div>
+    <div class="col-md-6 col-md-12">
+      <div class="container-fluid"></div>
+        <h2 class="description-header">Visualizations</h2>
+        <hr>
+        <div class="row">
+          <div class="column"> 
+            <a href="refuse_total.html"><img class="viz-image" src="Visualizations/NYC Total Refuse Production.png"></a>
+          </div>
+          <div class="column"> 
+            <a href="refuse_pc_total.html"><img class="viz-image" src="Visualizations/NYC Per Capita Refuse Production.png"></a>
+          </div>
+          <div class="column"> 
+            <a href="refuse_pc_borough.html"><img class="viz-image" src="Visualizations/NYC Per Capita Refuse by Borough.png"></a>
+          </div>
+          <div class="column"> 
+            <a href="recycling.html"><img class="viz-image" src="Visualizations/NYC Ratio of Refuse, Paper, and MGP.png"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Content Section -->
+
+<!-- Start Footer Section -->
+<footer>
+  <p class = "footer"> Copyright tlatinska 2020</p>
+</footer>
+<!-- End Footer Section -->
+
+</body>
+</html>

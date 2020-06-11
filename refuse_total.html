@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Total Refuse</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="style.css" Type="text/css" media="all">
+</head>
+
+<body>
+
+<!-- Navbar Section -->
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="index.html">New York City Waste</a>
+    </div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Plots <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="refuse_total.html">Total Refuse</a></li>
+          <li><a href="refuse_pc_total.html">Per Capita Refuse</a></li>
+          <li><a href="refuse_pc_borough.html">Per Capita Refuse by Borough </a></li>
+          <li><a href="recycling.html">Recycling </a></li>
+        </ul>
+      </li>
+      <li><a href="comparison.html">Comparison</a></li>
+      <li><a href="data.html">Data</a></li>
+    </ul>
+  </div>
+</nav>
+<!-- End Navbar Section -->
+
+<!-- Content Section -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6 col-md-12">
+      <div class="row">
+        <h1 class="description-header">Total Refuse</h1>
+        <hr> 
+        <p> <img class="mainviz-image" src="Visualizations/NYC Total Refuse Production.png"></p>
+        <p class="description-content"> Above, we show a total overall decrease in trash production in the five boroughs of NYC in the years 1992-2018. 
+          Trash production increased slightly between 2000 and 2003, before exhibiting a consistent downward trend. 
+        </p>
+        <p class="description-content"> We used total refuse information for the years 1992 to 2018, as this was the most complete set of information for all five 
+          NYC boroughs and was comprised of 19,824 observations. We looked at the total tons of refuse produced in the whole city to determine the overall trend of waste production during this time period.
+        </p>
+      </div>  
+    </div>
+    <div class="col-md-6 col-md-12">
+      <div class="container-fluid"></div>
+        <h2 class="description-header">Visualizations</h2>
+        <hr>
+        <div class="row">
+          <div class="column"> 
+            <a href="refuse_total.html"><img class="viz-image" src="Visualizations/NYC Total Refuse Production.png"></a>
+          </div>
+          <div class="column"> 
+            <a href="refuse_pc_total.html"><img class="viz-image" src="Visualizations/NYC Per Capita Refuse Production.png"></a>
+          </div>
+          <div class="column"> 
+            <a href="refuse_pc_borough.html"><img class="viz-image" src="Visualizations/NYC Per Capita Refuse by Borough.png"></a>
+          </div>
+          <div class="column"> 
+            <a href="recycling.html"><img class="viz-image" src="Visualizations/NYC Ratio of Refuse, Paper, and MGP.png"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Content Section -->
+
+<!-- Start Footer Section -->
+<footer>
+  <p class = "footer"> Copyright tlatinska 2020</p>
+</footer>
+<!-- End Footer Section -->
+
+</body>
+</html>
